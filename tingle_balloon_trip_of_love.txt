@@ -167,7 +167,8 @@ so-called Dakuten (or ten-ten), or Handakuten (゛ or ゜). To write such a
 character, first type the character without the Dakuten/Handakuten, then tap
 the symbol to be added. Examples: To write the character だ, first write た,
 then tap the ゛ symbol. To write パ, first write ハ, then add ゜.
-Note that several characters exist in a large and a small form, e.g. や vs. ゃ.
+Note that several characters exist in a large and a small form,
+e.g. や vs. ゃ.
 Take care not to confuse them, as they are not interchangeable.
 When in doubt, use the search method described below.
 The pink left arrow button (←) can be used to delete a character.
@@ -211,15 +212,16 @@ In the title screen, touch the screen, and three save game slots will appear.
 If you've bought the game second-hand, there might be save games already
 present; in that case pick one and press the rightmost of the three buttons
 below the save game slots in order to erase the game data
-(the button says 「さくじょ」). The game will ask you to confirm the deletion,
-and you'll see a nodding, air guitar playing Tingle ("yes"/「はい」) and one who
-shakes his head ("no"/「いいえ」). Pick "yes", and "yes" again, when the game
-asks you to confirm the choice. **Notice that "yes" is usually to the left and
-"no" to the right, but not necessarily so**; I think the designers sometimes
-switch their places to keep you from accidentally double-confirming something
-you don't mean to. In this case, the first "yes" is to the left, the second one
-is to the right. Just pay attention to the pictures of Tingle and
-you'll be fine.
+(the button says 「さくじょ」).
+The game will ask you to confirm the deletion, and you'll see
+a nodding, air guitar playing Tingle ("yes"/「はい」)
+and one who shakes his head ("no"/「いいえ」).
+Pick "yes", and "yes" again, when the game asks you to confirm the choice.
+**Notice that "yes" is usually to the left and "no" to the right, but not
+necessarily so**; I think the designers sometimes switch their places to keep
+you from accidentally double-confirming something you don't mean to.
+In this case, the first "yes" is to the left, the second one is to the right.
+Just pay attention to the pictures of Tingle and you'll be fine.
 So, now that you have a fresh and unspoiled save game slot, pick it and confirm
 that "yes", you want to start from that state.
 ### Opening Sequence
@@ -297,11 +299,12 @@ I mean, the man *is* uncle. Talk to him, and he'll ask you if you brought the
 But somehow, that's not what he wants. He needs the *thing*, the *thing*,
 you know! No, I don't know. Well, Auntie can tell you more details, he says.
 So, back to Auntie. Tap her and choose the second verb from the left,
-「はなす」("talk"). When the time comes to choose a conversation topic, pick the
-third one. Auntie will hazard the guess that Uncle meant a different tool. Now
-pick the fourth option to ask about that "different tool". She'll tell Tingle
-to look in the toolbox and gives him the _key_ he needs. Go back to Tingle's
-room. Oops - what was that? A floating pig just appeared out of thin air?
+「はなす」("talk"). When the time comes to choose a conversation topic,
+pick the third one. Auntie will hazard the guess that Uncle meant a different
+tool. Now pick the fourth option to ask about that "different tool".
+She'll tell Tingle to look in the toolbox and gives him the _key_ he needs.
+Go back to Tingle's room. Oops - what was that? A floating pig just appeared
+out of thin air?
 These are the "save pigs". In order to save your progress, tap the pig.
 It will greet you with the fascinating line, "Hello. I am a pig."
 That may be some Zen stuff, I don't know. All I know is, you tap on the
@@ -309,14 +312,15 @@ rotating pink cel-shaded chunk of bacon, confirm "yes", you want to save your
 game, pick a slot, and confirm twice. Presto, your game is saved.
 Now for the toolbox. Use the key on it. It ope…..eeh? It doesn't open.
 Wrong key. That's just the kind of game this is, you know. Back outside, show
-the key to Auntie. She'll think about where the key could be… Let's see, before
-she woke Tingle up, she fed Coco the chicken - and there we see something
-glimmering in its nest.
+the key to Auntie. She'll think about where the key could be... Let's see,
+before she woke Tingle up, she fed Coco the chicken - and there we see
+something glimmering in its nest.
 ### Page 1 Chapter 2: Uncles *Thing*
 So walk over to the west and just take what's in the nest, "yes"? Well, not if
 Coco has anything to say about it. We'll have to just lure him away from there
 for a second. Tap the metal silo, and choose the only verb available to inspect
-it. This will result in adding a verb: 「うごかす」("move"). Try this next. Aha!
+it. This will result in adding a verb: 「うごかす」("move").
+Try this next. Aha!
 Chicken feed comes pouring out. Quickly, while Coco is distracted, take what's
 in the nest. It's the _key to the toolbox_! Back into the house we go. Luckily,
 Tingle's travel is expedited by Coco's vigorous pecking. Open the toolbox to
@@ -393,16 +397,17 @@ So here we have several ladybug-type guys living together with a… large pink
 lady who is currently asleep. She is also, as the bugs tell Tingle,
 a Fortune-Teller. Go talk to her. Wake her up! There's a bit of confusion about
 who you are, and then she proceeds to use her awesome powers of fortune-telling
-to tell… that you are from very very far away. Well, that's certainly true, and
-in more than one way. Answer "yes". She's going to tell you your fortune
-for free, if you'd like. Accept! You then have a "vision" (more like
-tele-vision, amirite) showing your future - holding hands with Princess Emera
-in the City! Your pink prophet pronounces this preposterous, since getting
-together with the Princess is every stud's highest and farthest goal here in
-this land. "Top of the mountain", she claims. Pinky loses all her strength and
-has to sit down, while Ladybug Yellow offers to make her some herbal tea to
-strengthen her. But alas, there's no more left. Talk to Punchbuggy… I mean,
-Ladybug Red, he'll inform you of what needs to be gathered for tasty tea:
+to tell... that you are from very very far away.
+Well, that's certainly true, and in more than one way.
+Answer "yes". She's going to tell you your fortune for free, if you'd like.
+Accept! You then have a "vision" (more like tele-vision, amirite) showing your
+future - holding hands with Princess Emera in the City!
+Your pink prophet pronounces this preposterous, since getting together with the
+Princess is every stud's highest and farthest goal here in this land.
+"Top of the mountain", she claims. Pinky loses all her strength and has to sit
+down, while Ladybug Yellow offers to make her some herbal tea to strengthen
+her. But alas, there's no more left. Talk to Punchbuggy... I mean, Ladybug Red,
+he'll inform you of what needs to be gathered for tasty tea:
 Three flowers, one red, one blue, one yellow. The number of their petals
 must sum up to 15. Mathematical!
 Leave the house and enter the garden path to the north. There are some bushes
@@ -445,7 +450,8 @@ of work on the City's fields. Well, people might not be too far off with their
 strawhead-stereotypes…
 Tingle and Kakashi are well-met on this day and do a little dance of joy. From
 now on, you can "use" Kakashi from the item screen whenever you are interacting
-with the environment. You can give him one of two commands: 「たのむ」("request")
+with the environment.
+You can give him one of two commands: 「たのむ」("request")
 will send him crawling into small spaces, because that's his awesome power -
 he's small. 「ワラ」("straw") will make him use a bit of his straw to poke
 around in whatever target you have selected, which will prove very useful, too.
@@ -491,9 +497,10 @@ Walk to the left and follow the path. Sure enough, there's a huge silver ball,
 and it's knocked the tractor over. Examine it; Tingle will discover a button.
 Confirm that you want him to press it. A hatch opens in the ball and reveals
 some sort of cockpit. Tap the interior and choose the second verb,
-「すわる」("sit down"). For a moment it looks like Tingle can control the vessel,
-but in the end it rejects him and the "cruise computer" tells him that
-something called "BRK-0001" is its rightful pilot. Leave to the east.
+「すわる」("sit down").
+For a moment it looks like Tingle can control the vessel, but in the end it
+rejects him and the "cruise computer" tells him that something called
+"BRK-0001" is its rightful pilot. Leave to the east.
 There are two more of those troublesome ravens pecking at something.
 Kakashi tries to scare them away, and they leave, taking something with them.
 Now you can see there's a silver person lying there. Tap the figure.
@@ -523,9 +530,10 @@ top of a tree. You know what to do, right? Hit him with the slingshot! Kakashi
 picks up the dropped _battery_.
 Walk all the way back to the silver person, tap it and… What's this? Someone
 has put ears of corn in the compartment instead of batteries!? Tap them and
-take them out using the second verb, 「はずす」("remove"). Put in the batteries
-and close the lid (2nd verb). The person, apparently some kind of robot lady,
-gets up and begins to project a holographic image. Interesting concept.
+take them out using the second verb, 「はずす」("remove").
+Put in the batteries and close the lid (2nd verb).
+The person, apparently some kind of robot lady, gets up and begins to project a
+holographic image. Interesting concept.
 Sadly, the message is garbled, and the party can't make much of it. The robot
 continues its re-activation process and seems a bit confused. It asks about its
 whereabouts, then leaves through the corn field after being scolded by Kakashi
@@ -596,15 +604,17 @@ as she's coming along…
 Now we have a straw man seriously lacking in the brains department, and an
 emotionally distant iron lady. This is shaping up nicely; I wonder who else we
 might meet…
-Buriki's commands are 「たのむ」("request"), which will cause her to kick the
-target (seriously), and 「ぶんせき」("analysis"), which will reveal useful
-information about the target and sometimes trigger events in the process.
+Buriki's commands are 「たのむ」("request"),
+which will cause her to kick the target (seriously),
+and 「ぶんせき」("analysis"), which will reveal useful information
+about the target and sometimes trigger events in the process.
 OK, let's head back into the forest and see what's there to see. Follow the
 path until you pass the huge tree at the bend again, and into the woods.
 *CRASH* Something makes a very loud noise somewhere else in the woods.
 Very reassuring. Walk to the east and at the pond to the south, then left a
-little to where the huge bell… used to be. It's gone! And a new path has opened
-to the south. Follow it. Ah, there the bell is again, this time blocking
+little to where the huge bell... used to be. It's gone!
+And a new path has opened to the south. Follow it. Ah, there the bell is again,
+this time blocking
 another path. Head east, you'll reach a patch of very high grass. Look to the
 south, there's a bit of grass there too. Touch it, and a secret passage opens.
 Follow it to a rickety shack. Tap the shack to zoom in on its interior. A lot
@@ -654,8 +664,9 @@ Either way, leave it there, it may be useful later. Let's look for that big
 scared lion now.
 Head east and you'll see him crying there. He runs away to the east as soon as
 he notices you. Follow him. From the patch of grass go south, to the shack.
-Mmh. I see…  This seems like the perfect opportunity to employ Buriki's special
-powers. Tell her to kick that hinder! She does, and very thoroughly. But it
+Mmh. I see...  This seems like the perfect opportunity to employ
+Buriki's special powers.
+Tell her to kick that hinder! She does, and very thoroughly. But it
 seems this butt might need one more kick. Let Tingle do the honors, using the
 second verb. Haha, take that, you cowardly lion… who is walking away from
 behind the shack?! Well, seems like Tingle p.o.'d one mother of a squirrel, and
@@ -694,9 +705,10 @@ City. Kakashi informs him that the party are going there, too. They come to the
 conclusion that an audience with the King may remedy Lion's situation, and
 decide to travel together from now on.
 This means you'll be able to use Lion's two powers. His first command,
-「たのむ」("request"), is a surprising ability to talk to any kind of animal.
-The second one, 「かいりき」("superhuman strength"), will make him exert his
-strength in order to lift, move, or otherwise manipulate objects.
+「たのむ」("request"), is a surprising ability to talk to any kind
+of animal. The second one, 「かいりき」("superhuman strength"),
+will make him exert his strength in order to lift, move, or otherwise
+manipulate objects.
 Now it's finally time to leave these cursed woods. How could Lion's strength
 be of use in crossing the gorge? Remember the tall *yellow* tree at the path's
 bend? Go there, and use Lion's second command on it. Confirm to the cowardly
@@ -853,8 +865,8 @@ two screws. Use your screwdriver to remove them. Good thing you still have it!
 You find a train part! Tell "Ochime" to get back to work.
 Now, the last part is the hardest, as is often the case. Enter the junkyard.
 Pan to the left of the junkyard. Open the left one of the two drawers. Inside
-you find a train part and two… sexy bunny squirrel girls? Tap the part to start
-a quiz show.
+you find a train part and two... sexy bunny squirrel girls?
+Tap the part to start a quiz show.
 #### Zoom-Zoom Junkyard Quiz
 The quizmaster will ask you several questions. Ordinarily you'd have to root
 around the train station to gather the answers; I'll cut this process short and
@@ -867,17 +879,21 @@ Note: a slash ("/") means a line break
 this site: http://g-k-h.com/ds/tincle2/page05.php
 So the credit for part of this list is due to them, not my original research.
 
-- えきちょうの　なまえを　／　フルネーム　おこたえ　ください。
+- えきちょうの　なまえを　／
+フルネーム　おこたえ　ください。
 Question: Give the full name of the station master.
 Answer: ハーシア・オーライ
-- この　ひきだしの　もっとも　／　ちかくに　いる　ことりは　なにいろ？
+- この　ひきだしの　もっとも　／
+ちかくに　いる　ことりは　なにいろ？
 Question: Which color is the bird closest to this place?
 Answer: あお
-- あおくて　ビカビカする　／　ふとった　アイツの　なまえは　なに？
+- あおくて　ビカビカする　／
+ふとった　アイツの　なまえは　なに？
 Question: What is the name of the blue, fat train part?
           (Not quite sure about the meaning of this question)
 Answer: ダイサク
-- おじさんの　いえに　ある　／　にんぎょうの　なまえは　なに？
+- おじさんの　いえに　ある　／
+にんぎょうの　なまえは　なに？
 Question: What is the name of the doll in the man's house?
 Answer: コーンぼうや
 - <TODO: original wording?> 駅の名前「さいはて」
@@ -892,7 +908,8 @@ Answer: 14
 - <TODO: original wording?> 赤い看板の標語「ノーモアうっかり」
 Question: What is the slogan written on the red sign?
 Answer: ノーモアうっかり
-- ピンクいろの　キャラクターとともに　／　かかれた　キャッチコピーは？
+- ピンクいろの　キャラクターとともに　／
+かかれた　キャッチコピーは？
 Question: What is the catchphrase that goes together with the pink character?
 Answer: あさだ！くっとけ！
 
@@ -1104,7 +1121,7 @@ Begin fishing by walking on the planks, choosing the fishing rod from your
 inventory and then tapping the spot of water in front of Tingle when the wind
 has died down. You can judge the wind speed by looking at the pinwheel sticking
 out of the water. Once it stops turning completely, it's time to fish! Choose
-any bait and wait until the sinker goes under with a “blubb”, then pull it up
+any bait and wait until the sinker goes under with a "blubb", then pull it up
 by repeatedly swiping upwards. You should be able to get the energy eel fairly
 easily; I did it on the first try when I was writing this guide. You can
 recognize the eel by its blue color, yellow eyes, curvy shape and this text:
@@ -1236,9 +1253,10 @@ northeast of the map; try to make your way through the maze to reach the exit
 of the third level. You'll be pulled up and given some rupees for each coin
 you collected.
 Now the real fun begins. Ring the bell to get Dan's attention and use the first
-verb, 「ダンジョン」("dungeon"). From now on, playing a dungeon will cost you
-rupees, but don't worry, it's only 30 rupees for now, and usually you'll get
-much more than that back as a reward. Choose the newly presented dungeon,
+verb, 「ダンジョン」("dungeon").
+From now on, playing a dungeon will cost you rupees, but don't worry, it's
+only 30 rupees for now, and usually you'll get much more than that back as a
+reward. Choose the newly presented dungeon,
 「とんでもラビリンス」("laughable labyrinth", the red cartridge).
 Confirm that you will pay 30 rupees for the game. This dungeon is a little
 bigger than the first one, and there are some enemies. Keep an eye on the map
@@ -1269,9 +1287,10 @@ Ladybug Green. He is thrilled that you found it and calls the owner on the
 phone. A few seconds later she flies in by balloon. Say, she bears a great
 similarity to the Fortune Teller, doesn't she? Talk to her. She is looking
 forward to getting some gifts from Tingle, so indulge her and win her heart.
-She seems easily pleased… Once that's done, she asks Tingle if she can have the
-spiral flower. Give it to her. She announces that she has something important
-to tell you. She wants you to deliver the flower to the Fortune Teller.
+She seems easily pleased... Once that's done, she asks Tingle if she can
+have the spiral flower. Give it to her. She announces that she has something
+important to tell you. She wants you to deliver the flower
+to the Fortune Teller.
 Lion protests since the party is on a quest of their own and has already
 traveled far. Not to worry, the Flower Seller says, she'll give Tingle some
 amazing item that will make it possible for him to deliver the flower.
@@ -1501,7 +1520,7 @@ While the gang are surveying their surroundings, a pale face appears in the
 shadows and watches them. As the notice the newcomer, he greets them and
 beckons them onward. He seems to believe they are "aid" sent by the
 "management". Go north, deeper inside the tunnel. There's a figure slumped over
-a lever. It's a corpse! Tap it and talk to it - no go of co…ooooooou wazza? The
+a lever. It's a corpse! Tap it and talk to it - wazza? The
 heap of bones pulls itself together and starts to talk. Since you are the
 management-appointed aid, the bony man invites you to walk along and talk to
 the foreman. Go all the way north and talk to the big guy at the end of the
@@ -1654,7 +1673,8 @@ you don't have one. She tells Tingle that he'll need to find work in the
 harbor, or else he can't get a stamp, meaning he won't get a passport.
 Then she has an idea! She shows Tingle a picture of a guy - the weird-looking
 guy you saw in front of the office earlier. Her son, she explains proudly.
-When he was little, she used to call him 「シーシーちゃん」("little Sheeshee").
+When he was little, she used to call him
+「シーシーちゃん」("little Sheeshee").
 Maybe consult her son, who is himself a salary man, about work?
 ### Page 10 Chapter 2: Get Work!
 Let's get crackin'! Leave the office. Loveya walks over and tells Tingle that
@@ -1747,7 +1767,8 @@ pirate on the lookout. Hi there, back to Tingle's Rosy Rupee Land with you!
 
 Once you have used all of your marks on strange phenomena, talk to the agent
 again. You get the next riddle: "Tell the cirrocumulus cloud apart from the
-animal cloud" (うろこぐも　しかと　みわけよ　ケモノぐも). OK, let's go cloud watching.
+animal cloud" (うろこぐも　しかと　みわけよ　ケモノぐも).
+OK, let's go cloud watching.
 Go to the walkway up the stairs. On the far right end of the walkway, there is
 one of those telescope things. Use it, it costs only one rupee. Let's see,
 there's the sky and some fluffy clouds… Over time, one of the clouds changes
@@ -1892,8 +1913,9 @@ prepare your mind and talk to him when you're ready. Ready? Okay, talk to him.
 He will explain the qualities necessary for survival in the desert. Then he
 will as Tingle if he has understood everything. Answer "yes"; he will then ask
 Tingle to repeat the second quality necessary for survival. Besides Powers of
-Observation, you need Toughness (しゅうねん, I forget which option it is. Just
-seek it out or try at random until you get it).
+Observation, you need Toughness
+(しゅうねん, I forget which option it is.
+Just seek it out or try at random until you get it). <TODO: Which option?>
 Very good, young grasshopper! For Tingle's final preparation, Great goes and
 hides something in the area around the ticket booth. He returns and shows you
 what it is that Tingle must find - it is printed on his undershirt: a stag
@@ -2188,7 +2210,8 @@ A: Yes
 A: No
 3. Q: Is the goal of your journey to *not* reach the City?
 A: Yes
-4. Q: おまえとこの　きかいは　ふうしゃの　むらで　であった？
+4. Q: おまえとこの　きかいは　ふうしゃの
+むらで　であった？
 *not sure about the meaning*
 A: Yes
 5. Q: Do women find you attractive?
@@ -2228,7 +2251,8 @@ medal! Lion finds his behavior childish, which leads to a discussion about
 Lion's childhood. Kakashi is interested in knowing what kind of child Lion
 was - well-behaved? strong? Lion tells them he was a rather timid child.
 Suddenly, the train itself speaks up: We are nearing the City! Soon after, the
-Chinliner reaches the Gate of Emerarera City (エメラレラᐧシティ - weird name).
+Chinliner reaches the Gate of Emerarera City
+(エメラレラᐧシティ - weird name).
 Luckily, with the passport ready, this time Tingle has no trouble passing, and
 the friends enter the City. From the castle's balcony, a skinny blonde woman
 watches their arrival through a telescope. She puts on a funky pair of glasses,

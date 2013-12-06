@@ -2302,13 +2302,13 @@ Walk to the left, and you'll see the big telescope you saw earlier from the
 outside. A greasy guy is looking through it. Anyway, his chair is blocking the
 door to your room, so tap the chair. The guy talks to himself a bit, how he
 "wants to become a bird", and "I wanna be a little bird" (in English, which
-seems to be his thing!). For reasons that will become apparent soon, I'll call
-this guy the Otaku. Now he notices Tingle, and he "understands" that Tingle
-probably wants a peek at "heaven", too. So, tap the telescope and let's find
-out what this guy thinks heaven looks like.
+seems to be his thing!). He introduces himself as Sigma.
+Now he notices Tingle, and he "understands" that Tingle probably wants a peek
+at "heaven", too. So, tap the telescope and let's find out what this guy thinks
+heaven looks like.
 You see a balcony - and the Princess walks on the scene! In a severely
 over-saccharined display including birdies and flowers it is made clear just
-how lovely this girl is! Tingle falls in love like never before! Otaku speaks
+how lovely this girl is! Tingle falls in love like never before! Sigma speaks
 up again and identifies himself as the #1 champion of "Princess Mania", meaning
 he is the highest authority on Princess-related information and creepy
 Princess-stalking. He goes back to peeping. Tap the chair again; the guy
@@ -2316,18 +2316,18 @@ finally gets your drift, picks up the chair and goes to his room (the Princess
 has left the balcony, anyway). Now tap the door to your room and confirm that
 you wish to enter. Lion reasons that since tomorrow will be such a big day for
 everyone, they should just take it easy for the rest of today. Kakashi seems to
-think of this as a sleepover. Before Tingle can close the door, Otaku whispers
+think of this as a sleepover. Before Tingle can close the door, Sigma whispers
 to him to come out again later, to catch the "main attraction".
 That sounds **creepy**!
 ### Page 12 Chapter 2: Sleepy Night's Sleep Princess
 (ねむれぬ　よるの　ねむりひめ)
-Now it's dark outside. Otaku calls for Tingle: "Now is the chance to worship
+Now it's dark outside. Sigma calls for Tingle: "Now is the chance to worship
 the phenomenal figure!" Tingle comes out of his room. He may go first at the
 telescope, what an honor. Tap the telescope. The Princess is peacefully playing
 the harp on her balcony, when someone hands her a drink. As soon as she has
 finished it, her face turns all green and she drops to the ground. Tingle is
-horrified and tells Otaku what just happened. Otaku is not entirely convinced
-that Tingle really saw what he seems to think he saw. According to Otaku, the
+horrified and tells Sigma what just happened. Sigma is not entirely convinced
+that Tingle really saw what he seems to think he saw. According to Sigma, the
 Princess is the number one, the only one, the ultimate idol! He will teach
 Tingle about the Princess. He (literally) drags Tingle into his room and tells
 him about the Princess until the sun comes up. Tingle comes out of his room
@@ -2534,11 +2534,11 @@ Princess' condition, and Mrs. M gives him the good news. Also they will be able
 to have their audience with the King tomorrow, after the Dance Party. There is
 much rejoicing.
 ### Page 13 Prologue
-It is the next day. Otaku is on his post, manning the telescope.  Suddenly, he
+It is the next day. Sigma is on his post, manning the telescope.  Suddenly, he
 sees something funny and calls Tingle, who comes out of his room to join him.
 Tingle has a look through the telescope and sees the Princess on her balcony.
 Tingle seems to think everything's fine with that picture (note the tongue
-lolling out of his mouth), and Otaku has another look. He says he may have made
+lolling out of his mouth), and Sigma has another look. He says he may have made
 a mistake and apologizes, everything seems fine now.
 ### Page 13 Chapter 1: The Green Man and His Three Companions
 Walk to the right, down the stairs. The others are already up and talking; they
@@ -2909,11 +2909,10 @@ to stay a while and listen before beginning the battle. She asks to see
 Tingle's slingshot, and by some... er, fairy magic, she improves its power.
 Now it's time to go. Through the portal, Tingle reaches some weird dimension.
 His friends are all there, as are Majiyo and the captured Princess Emera. Lion
-demands Majiyo release the Princess. Majiyo summons Otaku (whose name seems to
-be Sigma <TODO: Name verwenden>). She sucks the Feropon (built up by his
-Princess-worshipping) out of him, and he disappears - I just hope he's ok! With
-the power of the Feropon, she changes form and invites the others to follow her
-before disappearing.
+demands Majiyo release the Princess. Majiyo summons Sigma. She sucks the
+Feropon (built up by his Princess-worshipping) out of him, and he disappears -
+I just hope he's ok! With the power of the Feropon, she changes form and
+invites the others to follow her before disappearing.
 Tingle concentrates and harnesses the power of the girls' hearts he collected
 along his journey. The more hearts you got him by now, the greater his power
 (hit points) will be in the following battle. Tingle, Kakashi, and Buriki jump

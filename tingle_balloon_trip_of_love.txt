@@ -1769,8 +1769,8 @@ little confused, he says, and he wonders if the construction crew have left the
 mountain safely. Let's say "yes" here to make him feel better.
 Leave the tunnel. The friends get on the Chinliner and ride it back into the
 first half of the map by themselves. Get off at #0. Tap the switch and use 
-the #0 key on the lock. Pull the lever. Get back on the train and drive on, finally
-back on the yellow railroad tracks!
+the #0 key on the lock. Pull the lever. Get back on the train and drive on, 
+finally back on the yellow railroad tracks!
 
 ## [F.39] Page 10 Prologue
 Soon other tracks unite with the yellow ones as they lead into the harbor. From
@@ -2965,7 +2965,8 @@ to be found. Will the obstacles never end? The waiter explains that Tingle is
 the last guest to arrive at the Party.
 He suggests Tingle get a drink from the bar.
 
-## [F.59] Page 14 Chapter 1: The Kiss of Gratefulness (かんしゃの　くちづけ)
+## [F.59] Page 14 Chapter 1: The Kiss of Gratefulness
+(かんしゃの　くちづけ)
 **Note: This chapter is the actual dance party (yay). To successfully complete
 it, you need to dance the Dance of Love (tm) with four girls you met earlier in
 the game: Iona, Liar, Azusa, and Sensei.** For this to happen, you have to have

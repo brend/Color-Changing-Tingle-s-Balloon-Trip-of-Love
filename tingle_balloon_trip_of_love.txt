@@ -33,9 +33,9 @@ just contact me (see above).
 Guide for main quest complete except for illustrations (desert map, spooky
 forest map).
 To be done:
-- Add missing maps (desert, forest)
 - Create table of contents
 - Side quests
+- Add forest map
 - Detailed Love Push explanation
 - Girl gift preference data
 - Description of individual game endings
@@ -51,22 +51,26 @@ A 35-year-old bachelor with no job, not money, no girl. No prospects, either.
 A cute dog is his only companion.
 Tingle is the protagonist of this adventure game. His journey through a
 different world is heavily inspired by a certain work of L. Frank Baum.
+
 ### Bespectacled Mystery Lady
 In the very beginning of the game, this strange woman sells a book to Tingle
 that will make his dull, dreary life so much better (or his money back).
 The book starts him on a magical journey through an unfamiliar world.
 Could she have an interest in his fate?
+
 ### Uncle & Auntie
 One day, Tingle wakes up in a strange new place and strange new underwear.
 These two elderly people seem to be his ersatz parents in this wondrous world.
 In the beginning of the game, they help him get his bearings and set him on his
  way towards the great City.
+
 ### Princess
 The object of Tingle's (and any living man's, really) desire. Apart from the
 fact that the Princess is the pinnacle of perfection, the most beautiful woman
 in the world, and all that jazz, Tingle has another motivation to pursue her:
 He must dance with her during the great Dance Party in order to return to
 his own world.
+
 ### Kakashi
 A boy made out of straw. When Tingle first meets him, he works as a scarecrow.
 He joins Tingle on his journey and has many useful characteristics and
@@ -79,6 +83,7 @@ Everybody calls him stupid, and he wishes to become more intelligent.
 2. *straw* - Kakashi pulls out one of his straws (ouch!) and uses it to
    interact with the target in surprising ways
 3. *medal* - Kakashi proudly presents his shiny medal to the target
+
 ### Buriki
 A strange woman made of metal, with a computer for a brain. She is very
 intelligent and analytical, which is very helpful for Tingle
@@ -90,6 +95,7 @@ Also, kicks like a mule.
 1. *request* - make Buriki kick the target with her foot
 2. *analysis* - Buriki uses her robot sensors to make a detailed analysis
    of the target's properties
+
 ### Lion
 This guy is *strong*! He can lift, push, break almost anything. What he lacks,
 though, is courage! He is afraid of a lot of things; a fact Tingle and his
@@ -99,6 +105,7 @@ Secondary ability: Can communicate with animals. No, really.
 1. *request* - make Lion talk with animals
 2. *strength* - Lion uses his immense strength to do all kinds of things to the
    target, e.g. lift rocks, break chains, etc.
+
 ### The Rest
 Along the way, Tingle will meet a host of quirky, colorful characters.
 These will be described in time...
@@ -109,6 +116,7 @@ design is very streamlined, in that you only ever use the touchscreen to issue
 commands to Tingle and interact with the environment. The only exceptions are
 the "Dungeons" which may alternatively be played with the D-Pad, and a certain
 instance where you need to use the microphone.
+
 ### Basic Interaction & the Inventory
 Just tap stuff with the touch pen! It couldn't be easier. Whenever you tap
 something in the environment, one of two things happens: Either Tingle
@@ -121,6 +129,7 @@ select an item, and finally tap the object in the environment you wish to use
 the item on. To scroll through your inventory, use the stylus to turn the
 valve-like thing (a valve?) in the bottom right, using a circular motion.
 To close the inventory, tap the "X" in the middle of the valve.
+
 ### Action Verbs
 Like a classic adventure game (think "Monkey Island"), this game makes use
 of verbs to allow you to issue commands to Tingle. The verbs are the words
@@ -138,6 +147,7 @@ bottle with various liquids and other stuff. If you need to put something in
 the bottle, but the bottle happens to be full, select the bottle
 from your inventory. A special verb, "empty", will appear to the right of the
 touchscreen. If you touch it, Tingle will empty out the bottle.
+
 ### The Friends Are Here to Help!
 Once Tingle meets new friends who accompany him on his journey, he can make use
 of their special abilities. To do that, tap the object on the screen you want
@@ -146,6 +156,7 @@ the friend whose ability you wish to use in the top right of the touchscreen.
 A list of two or three abilities, presented vertically, will show up. Tap the
 desired ability to use it on the selected object.
 See the above character summaries for a description of their abilities.
+
 ### Love Push
 Later in the game, Tingle will gain the ability to win the favor of female
 characters by giving them thoughtful gifts. This is called the "Love Push".
@@ -153,6 +164,7 @@ You engage the Love Push by tapping on the female in question, then selecting
 the orange "Love Push" button which is positioned just to the right of the
 green verb buttons. I'll explain how the Love Push works at the appropriate
 point in the walkthrough.
+
 ### Keyboard Input
 Now and again, you'll be forced to enter text to progress in the game.
 Sometimes it's not very important what you enter - e.g. the protagonist's name
@@ -207,6 +219,7 @@ w x y z       + - × ÷
 ## Walkthrough
 "Quit the jibba-jabba, let's go already!", I can just hear you say.
 Well, alright!
+
 ### Beginning a New Game
 In the title screen, touch the screen, and three save game slots will appear.
 If you've bought the game second-hand, there might be save games already
@@ -224,6 +237,7 @@ In this case, the first "yes" is to the left, the second one is to the right.
 Just pay attention to the pictures of Tingle and you'll be fine.
 So, now that you have a fresh and unspoiled save game slot, pick it and confirm
 that "yes", you want to start from that state.
+
 ### Opening Sequence
 Now you'll be treated to the opening sequence, introducing the game’s hero, a
 35-year-old bachelor. "No job, no money. And of course, no girlfriend.", the
@@ -247,6 +261,7 @@ barks. He is then magically whisked away inside the book by a tornado.
 This is the first of many references to Frank L. Baum's "The Wonderful Wizard
 of Oz". I won't be able to point them all out while I go along, because I'm not
 familiar with the story, so sue me.
+
 ### Page 1 Prologue
 Our bachelor finds himself in a room similar from before, but not exactly the
 same. A voice calls out: "Tingle, get up! Uncle needs your help. Bring the
@@ -287,6 +302,7 @@ Tingle suit. After some failed attempts and a knock on the head he manages to
 put it on. Now we're really Tingling! Auntie talks more about the Dance Party,
 which is going to take place in the City. Finally, she again tells him to get
 the hammer to Uncle. Our first quest!
+
 ### Page 1, Chapter 1: A Strange Older Couple
 The chapter's title probably refers to Uncle and Auntie, since Tingle doesn't
 have any recollection of having seen them before. Before you leave, tap the
@@ -315,6 +331,7 @@ Wrong key. That's just the kind of game this is, you know. Back outside, show
 the key to Auntie. She'll think about where the key could be... Let's see,
 before she woke Tingle up, she fed Coco the chicken - and there we see
 something glimmering in its nest.
+
 ### Page 1 Chapter 2: Uncles *Thing*
 So walk over to the west and just take what's in the nest, "yes"? Well, not if
 Coco has anything to say about it. We'll have to just lure him away from there
@@ -329,6 +346,7 @@ and head back to Uncle. Show the screwdriver to him.　
 Finally, Uncle is pleased. He'll now direct Tingle's attention to the junk heap
 beside which he is standing. By this machine Tingle will travel to the City,
 he says. But it's too junky, so he asks you to apply his *thing* to it.
+
 ### Page 1 Chapter 3: Move, Confounded Contraption!
 Your task is now to tighten the screws on that steam-leaking junk pile.
 Tap one of its three purple pipes to zoom in.
@@ -355,6 +373,7 @@ time, say goodbye to him as well. Now! Tap the chair in front of the machine,
 and confirm that you want to go. Auntie gives you 100 rupees of pocket money,
 there's some fireworks - pop! - and off you gooo! You have completed your first
 "page" of the book that is this game.
+
 ### Page 2 Prologue
 BONNGGG! That was a bit of a rough one, wasn't it? So, Tingle's travels are cut
 short by a collision with an unidentified flying object. He lands elegantly in
@@ -367,6 +386,7 @@ you go through the pages in order.
 Tingle emerges from the barn, dirty and probably rather pungent, if the flies
 buzzing around him are any indication. A strange beetle-like person appears for
 a second and hurriedly leaves again.
+
 ### Page 2 Chapter 1: Dung-Covered Sky
 (At least I think that's what the title says… Yucky yet strangely poetic…)
 A save pig pops up. Save whenever you feel like it, you can't really die in
@@ -390,6 +410,7 @@ one who always sells maps to Tingle. He will sell you this one for 30 rupees,
 oh lucky day. Back up to the north. Now that we're decent, we can dare enter
 the house. Several of those bug creatures ogle you and then say it's cool,
 you can come in. Enter the house.
+
 ### Page 2 Chapter 2: The Big Fortune Teller
 Maybe that could be translated as "great", but I'm gonna stick with "big".
 I think you'll agree.
@@ -427,6 +448,7 @@ fortune teller will perk right up. You watch the continuation of your fortune.
 What's that? In the vision, Tingle and three hard to identify companions walk
 along a yellow road. Though it's hard to make out the material of the road,
 would you like to hazard a guess?
+
 ### Page 2 Chapter 3: The Little Companion
 The fortune teller believes one of the companions seen in the vision to be
 Kakashi, the straw-headed boy you met in the garden. Leave the house and walk
@@ -465,9 +487,11 @@ Kakashi who shall bear it upon his breast. She makes it clear that the medal is
 a very important item, and shows Tingle the path he must take: the yellow brick
 road leading ultimately to the City. The meeting ends, and everyone gets on
 their way.
+
 ### Page 3
 Tingle and Kakashi follow the yellow brick road and get better acquainted on
 the way. They reach a gate in front of a huge cornfield.
+
 ### Page 3 Chapter 1: The Yellow Brick Road
 Open the gate and enter. There seems to be a very small person drowning in the
 creek. This is the time for Kakashi to use his second power. Use Kakashi's
@@ -492,6 +516,7 @@ like pink clouds and heart-shaped pupils. She hurries away. The farmer
 introduces himself as Peter, owner of the corn fields. The party asks about the
 road, and Peter replies he can't do anything about it without his tractor and
 the silver ball blocking the way. Agree to help him.
+
 ### Page 3 Chapter 2: Old Peter's Request
 Walk to the left and follow the path. Sure enough, there's a huge silver ball,
 and it's knocked the tractor over. Examine it; Tingle will discover a button.
@@ -544,6 +569,7 @@ starting to sound a little creaky. *sigh*, alright, back to the UFO again.
 Kakashi proposes the robot lady join the party, who are heading to the City
 themselves. But she ignores the offer and tries to get into the UFO - and
 freezes in place.
+
 ### Page 3 Chapter 3: Mechanical Trouble
 We can't leave here hanging like this, despite all the rudeness and
 strangulations. Head to the very southwest of the map, where the chest is.
@@ -563,6 +589,7 @@ crawling ability, and he will retrieve the _oil_ for you. Back to the UFO
 landing site, and use the oil bottle on the mechanical lady. She regains her
 mobility and tries to leave in her vessel. Some issues occur, and the page ends
 with a nice display of fireworks.
+
 ### Page 4 Prologue
 Peter the farmer gives everyone a lift on his tractor. Kakashi keeps talking at
 the robot Lady, and she finally reveals her name: *Buriki*.
@@ -570,6 +597,7 @@ The ride ends where the yellow brick road continues: at the edge of a forest.
 A really dark, scary forest. But, Kakashi reasons, since there are now three
 people in the group, it's not so scary after all, right? Three people? Buriki
 seems to disagree and leaves.
+
 ### Page 4 Chapter 1: Dark Forest
 Follow the road into the forest. It's really dark and creepy, just look at
 Tingle's visage. Walk along the road a little, and you'll see Buriki using her
@@ -637,6 +665,7 @@ Use the scary book on the lion. Wow, that's really scary. The creepy faces
 Tingle makes enhance the effect greatly. The lion has turned a nice shade of
 scaredycat blue, but he's still holding his ground. Read the book to him again,
 and again. That finally does it! He runs away like the big… cat he is.
+
 ### Page 4 Chapter 2: The Target is a Coward
 Follow him to the south. From there, go west, and you'll reach a spooky cabin
 in the woods. Try the door - locked, what else. But there's a hole underneath
@@ -688,6 +717,7 @@ it; his shaking makes the tree lose its leaves. Leave the zoomed-in tree view
 and use your matches on the pile of leaves. Hm, won't burn. Put a little oil on
 the leaves, then try the matches again. That smoked him out.
 Ha-haa, look at him run!
+
 ### Page 4 Chapter 3: Little Courage, Lotsa Power
 Walk to where the yellow suspension bridge used to be. The lion is still
 blinded by the smoke. He runs right over the edge and cries for help.
@@ -717,10 +747,12 @@ display of raw power, he does. The fallen tree will serve nicely as a bridge,
 and Kakashi as well as Buriki cross immediately. Lion, however, seems to need
 some persuasion. Oh well, just whip out the scary book again for him, and
 he'll be on the other side like *that*.
+
 ### Page 5 Prologue
 With the terrifying forest now behind them, the party reach the open plains and
 see what looks like a train station. Everybody is excited, except for Lion, who
 is afraid of riding vehicles.
+
 ### Page 5 Chapter 1: The Yellow Rail
 First things first: What is that ostrich doing there in the distance? Tap it -
 and it'll come over to Tingle. It's Map Boy!
@@ -782,6 +814,7 @@ tells you that in order for the train to function, every train part (the little
 guys) must be in position. He begs you to go out and bring back the others. To
 this end, he gives you a list of the parts. He himself is on it, too; his name
 is Ganeyan.
+
 ### Page 5 Chapter 2: The Parts that Ran Away
 Leave the cab. One of the parts is running away in front of your eyes, and it's
 taking something with it - looks like a valve wheel. Well, the first part is
@@ -867,6 +900,7 @@ Now, the last part is the hardest, as is often the case. Enter the junkyard.
 Pan to the left of the junkyard. Open the left one of the two drawers. Inside
 you find a train part and two... sexy bunny squirrel girls?
 Tap the part to start a quiz show.
+
 #### Zoom-Zoom Junkyard Quiz
 The quizmaster will ask you several questions. Ordinarily you'd have to root
 around the train station to gather the answers; I'll cut this process short and
@@ -914,6 +948,7 @@ Question: What is the catchphrase that goes together with the pink character?
 Answer: あさだ！くっとけ！
 
 With that taken care of, enter the final round of the zoom-zoom quiz.
+
 ### Page 5 Chapter 3: Final Zoom-Zoom
 The question is:
 Which are the nine digits and letters that make up the steam train's ID number?
@@ -929,6 +964,7 @@ The party have obtained all the necessary parts, but the still have to be put
 into place. If you talk to each of the parts, it will tell you the specifics of
 its positioning. And boy, are they picky! Here is a list of the parts and their
 requirements:
+
 #### Train parts chart
 Ganeyan      Ochime
 Gasu         Gikkon
@@ -936,6 +972,7 @@ Battan       Mochimochi
 Daisaku      Chekeo
 Retsu        Gou
 Pinko (girl) Mizui (girl)
+
 #### Train parts placing requirements
 - Gasu: at the edge of the white row, next to Pinko
 - Battan: into the blue row
@@ -974,6 +1011,7 @@ the master controller. Pull the handle to the right. The train charges and the
 party leave the train station at warp speed. Before the scene changes,
 Horse Guy and Horse show up, and it becomes apparent that they have sabotaged
 the train, causing it to leak liquid.
+
 ### Page 6 Prologue
 The train speeds along, and little Kakashi really enjoys himself. Buriki
 detects a decrease in velocity, and a blue-faced Lion wakes Tingle to tell him
@@ -986,6 +1024,7 @@ up and tells you to switch off the master controller. Tap it and pull the
 handle to the left. The train comes to a halt. The party get off the train,
 and Gasu tells them they need to replenish the fuel supply. They are to look
 for plant-based fuel.
+
 ### Page 6 Chapter 1: Fuel please!
 Tingle and Kakashi head off on their own. Climb the platform and leave the
 screen to the east. You reach a hill with a nice view on a beautiful village
@@ -1027,6 +1066,7 @@ Loveya removes the barrels, so now you can move freely through the village in
 every direction. Walk a little to the left to get to the general store. At the
 same time, Lion and Buriki join you again; apparently, Lion is finally feeling
 better. Loveya will now teach Tingle a technique called *Love Push*.
+
 ### Page 6 Chapter 2: The Great Gift Venture
 First off, Loveya hands Tingle a _gift assortment_ as well a _gift box_.
 You see, in order to persuade girls in this game, Tingle will first have to win
@@ -1073,6 +1113,7 @@ the store, has a problem she could need your help with. Alright, so win the
 Mushroom Lady over as well by pushing her. She says there is something else she
 wants besides presents. Talk to her and confirm that you are willing to hear
 her request. She needs an "energy eel" for her husband.
+
 ### Page 6 Chapter 3: Lunch (???)
 Go fish! Ha ha, ok, let's do it together. Before you leave the fruit shop, tap
 the banana stand and buy a _banana_. Now go to where the general store is.
@@ -1099,6 +1140,7 @@ beetle. Confirm that you are done walking Edelweiss. Walk back to the old
 fisherman by the general store and hand him the dentures. Boy, is he happy!
 He gives you a _fishing rod_ as a present and teaches you *fishing!*
 (the "!" is integral to the spelling).
+
 ### Page 6 Chapter 4: The Health-Bringing Eel (?)
 If you like, you can talk to the fisherman to learn all sorts of stuff about
 *fishing!*. For example, he tells you that if you're trying to catch the energy
@@ -1137,9 +1179,11 @@ strangely and hangs up in the middle of the conversation. Might this have
 anything to do with her and Tingle's encounter earlier? The fruit vendor offers
 to come along over to Iona's. But first - since it's noon, everyone's hungry.
 Lunchtime!
+
 ### Page 7 Prologue
 Apparently, lunch is over in the flip of a page! Everyone is full and ready to
 visit Iona in her seed store. The fruit vendor leads the way.
+
 ### Page 7 Chapter 1: ★ Miss Village ★
 Walk over to the seed store. The fruit vendor is standing in front of it and
 knocking at the shutters. With success! Iona seems a bit paranoid, looking out
@@ -1152,6 +1196,7 @@ to the party and apologizes for her harsh reaction earlier. When asked about
 the gas apple, she explain that it no longer exists in this village, just like
 the fruit vendor said earlier. However, she has a plan to get her hands on the
 apple soon, with the help of Team Tingle.
+
 ### Page 7 Chapter 2: Three Conditions
 Once your conversation with Iona ends, talk to her again to learn about the
 three conditions that must be met if you want to grow the apple:
@@ -1221,6 +1266,7 @@ three "tappable" parts). Leave the book - Iona will ask you if you are done
 reading; confirm this. She explains that you must travel across the swamp to
 some ancient ruins; the monkey Masaru will act as your guide. In the meantime,
 Iona will prepare for the planting and raising of the apple seeds.
+
 ### Page 7 Chapter 3: Chika Chika Go Go
 Tap the boat and confirm that you want to cross the swamp. Soon you reach an
 island. Go north. You reach the gate to the ruins. Tap the gate to open it and
@@ -1344,9 +1390,11 @@ ground!
 Fast forward to the late evening. While everyone is chatting, a delicate little
 shoots springs up from the ground! It's a little surprising how fast that went,
 but Iona credits the speed of the growth to the fertilizer.
+
 ### Page 8 Prologue
 Tingle's peaceful snoring is interrupted by Lion, who asks him to come
 right away!
+
 ### Page 8 Chapter 1: A Wish Come True!?
 Start walking into the village. The others are standing on the hill.
 Lion directs your attention to a red something that has appeared on the fields
@@ -1355,6 +1403,7 @@ fully grown gas apple tree there! Tap the top part of the tree, where the
 fruits are attached. Use the first verb to examine them. Then, use the second
 verb to try and pluck an apple. Holy crap, the tree is actually a huge monster,
 and it kicks you right out of there.
+
 ### Page 8 Chapter 2: Crash! Gas Apple
 We need those apples! (Remember why? To make fuel for the Chinliner, of course.
 Remember, three chapters ago? Man, we've been in this village a long time,
@@ -1369,6 +1418,7 @@ Kakashi is floating in the water; get him out with your fishing rod. Finally,
 walk to the flower shop. Buriki is sticking head first in the ground;
 use Lion's *strength* to pull her out. Everyone's back together again, now
 let's take on that plant. Walk up the stairs…
+
 #### Boss fight: Evil Walking Plant ・　Gas Apple Tree
 Look at you, your first boss fight! I remember it like it was yesterday when
 you were still a 35-year-old bachelor living in filth with only your small dog
@@ -1415,6 +1465,7 @@ Once you have hit the third eye with the slingshot, the Tree will die and spew
 forth its precious load of apples. Everybody rejoices in dance, except for
 Buriki, who is much to cool for that.
 Iona is grateful for everything Tingle has done to help the village.
+
 ### Page 8 Chapter 3: The Heroes Who Saved the Village
 Walk into the village. Lion is standing in front of the general store; talk to
 him. The gas apples have been made into fuel. Lion picks up a barrel. Walk to
@@ -1430,6 +1481,7 @@ Iona once again expresses her gratitude to everyone. Climb aboard the
 Chinliner. Crank up the master controller to the max, and prepare for
 departure. Iona says goodbye to Tingle and asks him to visit again, if he's
 around. The train departs, onward to adventure!
+
 ### Page 9 Prologue
 The Chinliner's departure is being watched. Who holds the binoculars?
 None other than Horse Guy. He makes a call on his cell phone (does Link know
@@ -1440,6 +1492,7 @@ crown, those things cost up to a million bells in Animal Crossing. Fancy boy,
 eh? He seems determined not to let Tingle interfere with his chances to ask the
 Princess out for the Dance Party. He spurs his horse, Umare (ウマーレ), …
 Whoops, how embarrassing.
+
 ### Page 9 Chapter 1: The Third Trap
 The Chinliner speeds along the yellow railroad track. Inside, Kakashi shows of
 his medal once again to pass the time. Lion can't hear it anymore, he knows the
@@ -1463,6 +1516,7 @@ analytic prowess, she correctly states that the railroad tracks here aren't
 yellow, which means that the party is literally on the wrong track. They need
 to get back on the yellow railroad track as quickly as possible. But where are
 they now…
+
 ### Page 9 Chapter 2: The Lost Railroad Tracks
 Walk down the stairs to the right. There is some sort of lever here. Tap it and
 use the first verb to examine it. It's a lever! Use the second verb to try and
@@ -1487,6 +1541,7 @@ a lock because it is very important: It is the connection to the yellow track
 that leads to the City. To use it, you will need the #0-key from the
 construction office. The office, as you see, is just to the northwest of the #0
 platform. Get in the Chinliner and ride on to #3. Use the switch. Ride on to
+
 #5. Get off the train. If you wait here for a few moments, you'll notice a
 strange, boy-like shape riding along the tracks to the northwest with the word
 "Touch!" OK - touch him. He's the Map Kid, and he'll sell you the map for 50
@@ -1512,6 +1567,7 @@ on the platform. Go outside. The switching lever, previously without function,
 is now active. If you try to pull it just like that, however, Tingle is in for
 a refreshing electric shock! So use the rubber gloves on the lever
 to switch #4.
+
 ### Page 9 Chapter 3: The Forgotten Project
 Board the Chinliner and go forward. This will take you to a new part of the
 area, on a separate map. The Chinliner stops at the entrance of the tunnel
@@ -1622,14 +1678,15 @@ main track. At this point, Lion awakes from his fear-induced paralysis. He is a
 little confused, he says, and he wonders if the construction crew have left the
 mountain safely. Let's say "yes" here to make him feel better.
 Leave the tunnel. The friends get on the Chinliner and ride it back into the
-first half of the map by themselves. Get off at #0. Tap the switch and use the
-#0 key on the lock. Pull the lever. Get back on the train and drive on, finally
+first half of the map by themselves. Get off at #0. Tap the switch and use 
+the #0 key on the lock. Pull the lever. Get back on the train and drive on, finally
 back on the yellow railroad tracks!
 
 ### Page 10 Prologue
 Soon other tracks unite with the yellow ones as they lead into the harbor. From
 there on, Tingle and friends will have to go on by ferry. The train stops at a
 gate with two guards greeting Tingle.
+
 ### Page 10 Chapter 1: A Melody of Channels and Bureaucracy
  (カイキョウトコウキョカキョク)
 Talk to the guard standing next to the train. He asks to see Tingle's passport.
@@ -1676,6 +1733,7 @@ guy you saw in front of the office earlier. Her son, she explains proudly.
 When he was little, she used to call him
 「シーシーちゃん」("little Sheeshee").
 Maybe consult her son, who is himself a salary man, about work?
+
 ### Page 10 Chapter 2: Get Work!
 Let's get crackin'! Leave the office. Loveya walks over and tells Tingle that
 his new lineup of merchandise is ready for sale! This means that from now on,
@@ -1807,6 +1865,7 @@ If you're successful, the Boss awards you with a _certificate of employment_.
 Kakashi is also included in this because he didn't interfere with Tingle's
 work. That must count for something, right? Now everybody has worked hard,
 let's gather the gang and deliver that certificate!
+
 ### Page 10 Chapter 3: Let's Go Window
 First, we'll have to travel a little. Using your magic balloon, travel to
 page 8. You're back in the village now. Walk to the apple fields in the center
@@ -1837,6 +1896,7 @@ The guard lady asks to see his medal one more time. A wild thief appears!
 The little brat snatches the medal right from Kakashi's chest and makes a run
 for it!! An action-packed chase unfolds and the party see the thief running
 towards Neko Park.
+
 ### Page 10 Chapter 4: Unscrupulous Shore (?)
 Enter the park. The thief is standing on the pier. He says that a guy on a
 horse has promised him 100,000,000,000,000 rupees for the medal. On the other
@@ -1865,6 +1925,7 @@ third command in his list of commands. Now get on the Chinliner for real.
 The guard at the gate again asks for your passport - this time, just pull it
 out and present it to him! The Chinliner is put on the ferry, and the voyage
 continues!
+
 ### Page 11 Prologue
 The ferry brings the Chinliner to some sort of way station. Buriki explains
 that Tingle will have to get a ticket at the booth to be able to continue on
@@ -1872,6 +1933,7 @@ the railroad tracks. A man speaks to the party, he says his name is Great.
 He is a desert guide. He explains that if you want to take a trip through the
 desert, you'll have to be prepared. Lion answers that the group isn't
 interested in the desert. Confirm this. So Great wanders off…
+
 ### Page 11 Chapter 1: Bureaucratic Work
 Tap the booth to get in line for a ticket. Kakashi gets distracted by some
 commotion. Let him. Use the second verb on the person at the counter to get in
@@ -1929,6 +1991,7 @@ With the _stag beetle_, return to Great. Give it to him. He is impressed, and
 now asks you to follow him into the desert.
 Now it's time for Great to explain to Tingle the important things he'll need to
 know in order to survive in the desert.
+
 #### Desert Facts
 He hands him the _King of Water Flasks_. In this flask, you have 500 units of
 water. Walking through the desert, each move costs a little water. Should
@@ -1938,6 +2001,7 @@ next plant, that is his next home base. He can refill the flask at oases that
 are scattered throughout the desert, as well as blue plants which will allow a
 one-time refill of a small amount of water. He gives Tingle the _desert memo_,
 where all of this is written down.
+
 #### Fighting in the desert
 The desert works like typical JRPGs in that you'll have random encounters with
 enemies, against whom you must "fight". You can do this by using the verbs
@@ -1946,6 +2010,7 @@ usual powers of Tingle's companions. Whenever you win fights, you can get items
 like demon coins (the currency of the desert), water, or the desert map. See
 the section "Enemies to be encountered in the desert" to find out what to
 expect & how to react.
+
 #### Enemies to be encountered in the desert
 - Map Kid: Use *fight* - he will offer you the _desert map_ for 150 rupees.
 Agree, and he will relinquish the map after being pelted by rupees.
@@ -2111,6 +2176,7 @@ Now remember we are here in the *Liar* Village, and together with the strange
 opposite of what these guys tell you! So, step on the *blue* platform, and when
 the game asks if Tingle should dance, say "no". The gate opens!
 Pajama Guy walks in.
+
 ### Page 11 Chapter 3: The Wondrous Liar Village
 Walk through the gate to enter the real village. See all those stocky, striped
 people - they're the Liars. Walk right, and try to climb down the ladder. The
@@ -2195,6 +2261,7 @@ have a profoundly mind-altering effect on the beast. Buriki receives a
 telepathic (?) communication from the monster, in which the creature explains
 that it is not very pleased to be woken up right now, but it will let the
 intruders live if they can pass its test.
+
 #### Boss Fight: Oousotsuki
 This fight is in the form of a pop quiz. Tingle has to answer ten yes/no
 questions each of which has a time limit of only a few seconds. If he answers
@@ -2242,6 +2309,7 @@ Great shows up and wishes them good luck in the City, which is, after all, just
 a big desert with buildings. He seems to have taken a liking to them since they
 are the only ones he has ever met who have survived the desert. Well, time for
 Tingle and his friends to move on...
+
 ### Page 12 Prologue
 The Chinliner is on its way to the City! The friends talk about Horse Guy. Lion
 believes he might have met him before (no kidding). An actor? An opera singer?
@@ -2264,6 +2332,7 @@ Nimistop >:-(
 He makes a bit of small talk with Tingle and finally lets him know that he
 intends to dance with the Princess in the spotlight, and Tingle can pack his
 tights and head for home right here and now.
+
 ### Page 12 Chapter 1: Emerarera City
 To the left of the screen, there's a guy with a spyglass. Tap him, and the
 screen pans towards the castle. You can see a monk walking up and down the
@@ -2319,6 +2388,7 @@ everyone, they should just take it easy for the rest of today. Kakashi seems to
 think of this as a sleepover. Before Tingle can close the door, Sigma whispers
 to him to come out again later, to catch the "main attraction".
 That sounds **creepy**!
+
 ### Page 12 Chapter 2: Sleepy Night's Sleep Princess
 (ねむれぬ　よるの　ねむりひめ)
 Now it's dark outside. Sigma calls for Tingle: "Now is the chance to worship
@@ -2355,6 +2425,7 @@ the ingredients for the special treatment necessary to cure the poisoning.
 Thus, she wants Tingle to find the three ingredients. Will he do it?
 Answer "yes", because we really want to save the Princess, don't we? Mrs. M
 hands Tingle _3 memos_ detailing the required ingredients.
+
 ### Page 12 Chapter 3: Collecting Ingredients Now and Back Then
 (そざいをあつめていまむかし)
 Alright, let's have a look at those memos first. The details of the ingredients
@@ -2495,6 +2566,7 @@ noticed him gather the ingredients on their journey. Mrs. M mutters to herself
 that she wished she'd had a little more time to work with, but quickly composes
 herself and asks for the ingredients. She will now prepare medicine for the
 Princess from the ingredients. Also, she invites Tingle into the castle.
+
 ### Page 12 Chapter 4: Hello, Princess
 Walk to the gate and talk to the guard. He will open the gate for you. Tap the
 gate and confirm that you wish to enter.
@@ -2533,6 +2605,7 @@ that all the beauty and youth will soon be hers. Mmh. Lion asks her about the
 Princess' condition, and Mrs. M gives him the good news. Also they will be able
 to have their audience with the King tomorrow, after the Dance Party. There is
 much rejoicing.
+
 ### Page 13 Prologue
 It is the next day. Sigma is on his post, manning the telescope.  Suddenly, he
 sees something funny and calls Tingle, who comes out of his room to join him.
@@ -2540,6 +2613,7 @@ Tingle has a look through the telescope and sees the Princess on her balcony.
 Tingle seems to think everything's fine with that picture (note the tongue
 lolling out of his mouth), and Sigma has another look. He says he may have made
 a mistake and apologizes, everything seems fine now.
+
 ### Page 13 Chapter 1: The Green Man and His Three Companions
 Walk to the right, down the stairs. The others are already up and talking; they
 can hardly believe the day of the great Dance Party has finally come. Walk to
@@ -2562,6 +2636,7 @@ probably start any minute now. And where are Tingle and his friends? In a
 prison cell! A cell that's so cramped that Kakashi has to sit **inside** the
 toilet bowl. They discuss their bad luck and are shushed by the prison guard.
 Note that one of the two guards is female...
+
 ### Page 14 Chapter 2: The Gentle Lion
 OK, ready for the prison break scene? Tap the female guard to get her entr...
 Oops! She interrupts Tingle's sketching - writing strictly forbidden!
@@ -2600,6 +2675,7 @@ little strange and tries to leave, but H.G. stops him. He explains that the
 Yellow Brick Road leads from places all over the country to this castle gate.
 But here it ends! That's quite the double entendre, because he now reveals that
 inside the statue of the King, a killer robot is hidden! Time to fight...
+
 #### Boss Fight: MekaniKing
 The final trap of Horse Guy, MekaniKing is a formidable piece of
 "Super Technology", as H.G. puts it. Its primary strategy for destroying Tingle
@@ -2659,6 +2735,7 @@ castle. Suddenly, a loud crash is heard from the outside. Kakashi fears greatly
 for Lion's life. Buriki states that it's impossible to tell from here if Lion
 is still alive. Kakashi asks Tingle if he thinks Lion will be ok.
 Let's say "yes" to soothe the straw boy.
+
 ### Page 13 Chapter 3: The Last Lesson
 Buriki hears the voice of a palace guard, and the friends hide behind a vase.
 The next part of the game is somewhat similar to the part in Ocarina of Time,
@@ -2721,6 +2798,7 @@ Then Tingle and he have to hide because a guard comes around the corner.
 He finds nothing wrong. Suddenly, the draught from the open window blows out
 the candle that is lighting the room. The guard closes the window and lights
 the fire again before going back to his post.
+
 ### Page 13 Chapter 4: I got it!
 Since the guard is blocking the door, we need to get him away from there.
 We could try to open the window again; fixing the candle took him some time.
@@ -2779,11 +2857,13 @@ Looks like Tingle's goose is cooked - if it weren't for the Princess who shows
 up right on time to invite Tingle in. The guards can do nothing, ha-ha!
 Together, the two of the step into the ballroom. If this is a dream, don't wake
 me up!
+
 ### Page 14 Prologue
 But what's this? A waiter stops Tingle, and the Princess is nowhere
 to be found. Will the obstacles never end? The waiter explains that Tingle is
 the last guest to arrive at the Party.
 He suggests Tingle get a drink from the bar.
+
 ### Page 14 Chapter 1: The Kiss of Gratefulness (かんしゃの　くちづけ)
 **Note: This chapter is the actual dance party (yay). To successfully complete
 it, you need to dance the Dance of Love (tm) with four girls you met earlier in
@@ -2794,6 +2874,7 @@ Azusa, the train girl, or Sensei, the teacher from the corn field.
 If you haven't gotten at least one heart with everyone, don't bother trying to
 do the Dance Party, it won't work. Instead, follow this guide to get to first
 base, er, heart with them.
+
 #### Winning Azusa's (train girl's) Heart
 If you don't already have the **Super Express Model B** (check in your gift
 box, it has the blue "not for sale" tag), fly to page 9. It is in the very room
@@ -2804,12 +2885,14 @@ Do the Love Push to give her the Super Express Model B (use the blue tag to
 find it; its icon has a yellow border). This will bust open her first heart,
 which you can then fill up doing a regular love push with gifts of level 1 and
 above).
+
 #### Winning Sensei's Heart
 Fly to page 3, the corn field. Follow the yellow brick road until you reach the
 farm house. Sensei is right in front of it. You can do a regular Love Push on
 her (gifts: level 1 and above) and win her first heart, just like that. By the
 way, her real name is "Florence", but in the Love Journal she is still listed
 as "Sensei".
+
 #### The Dance Party
 It only makes sense to continue here if you have won at least one heart of the
 "important" girls you've met in the game. You can do the Dance Party in any
@@ -2917,6 +3000,7 @@ Tingle concentrates and harnesses the power of the girls' hearts he collected
 along his journey. The more hearts you got him by now, the greater his power
 (hit points) will be in the following battle. Tingle, Kakashi, and Buriki jump
 on Lion's back to form sort of a battle team, and off they go to fight...
+
 #### Boss Fight: Majiyo
 This boss fight is like a shooter in that you have to use the slingshot to
 shoot at Majiyo to damage her, as well as defend yourself against her various
@@ -2925,6 +3009,7 @@ no way of pausing during the battle, and since requires a high level of
 concentration, this can be very tiring. If you're playing this on a 3DS, use
 the "Home" button to suspend the game altogether - just be careful not to
 return to the home screen and lose your progress.**
+
 ##### Majiyo Stage 1
 You main goal is to drain her hit points by hitting her body. A health bar
 appears underneath her body indicating how many hit points she has left in
@@ -2947,6 +3032,7 @@ before they get too close. Her vulnerable spot is her head which you must shoot
 at every opportunity. This does not subtract hit points from her main health
 bar; rather, the scene changes back from the sideways-scrolling snake fight to
 the regular scene where you can damage her main form again.
+
 ##### Majiyo Stage 2
 In this stage, Majiyo takes the form of a giant floating head. A heart-shaped
 form is visible on the forehead, this is her vulnerable spot; hitting it will
@@ -2962,6 +3048,7 @@ disappear. You must not, however, attack the images of the Princess; if you do,
 you'll suffer damage.
 Once you have completely drained Majiyo's health bar, the heart-shape shatters
 and Majiyo's face appears in it. Shoot the face! A winner is you!
+
 #### After the fight
 The battle is won. Lion frees the Princess from her chains. Majiyo is lying
 flat on her face. Lion asks if they should give her the death blow. I'm gonna

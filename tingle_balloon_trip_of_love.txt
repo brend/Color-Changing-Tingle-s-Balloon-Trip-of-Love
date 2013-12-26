@@ -69,7 +69,7 @@ Japanese title: いろづきチンクルの恋のバローントリップ
 [F.46.2] Enemies to Be Encountered in the Desert
 [F.46.3] The Way Through the Desert
 [F.47] Page 11 Chapter 3: The Wondrous Liar Village
-[F.47.1] Boss Fight: Oousotsuki
+[F.47.1] Boss Fight: The Big Liar
 [F.48] Page 12 Prologue
 [F.49] Page 12 Chapter 1: Emerarera City
 [F.50] Page 12 Chapter 2: Sleepy Night's Sleep Princess
@@ -2253,8 +2253,9 @@ This is the entrance to the Liar Village. Once you're standing in front of it,
 Great will appear from out of nowhere and congratulate you for successfully
 crossing the desert (i.e. being still alive). He warns you of the perils that
 are to be found in the underground Liar Village. He says the Liars worship as
-their god a cave-dwelling create called Oousotsuki. When he's done explaining,
-Great leaves. The Tingle Experience enter the village.
+their god a cave-dwelling create called The Big Liar. 
+When he's done explaining, Great leaves. Tingle and his friends 
+enter the village.
 Before entering the village proper, Tingle and friends find themselves in a
 sort of antechamber. There is a big stone arc, tap it - the inscription reads
 "Goodbye". Hm. Walk right until you reach a closed gate in front of which a
@@ -2343,7 +2344,7 @@ him even more angry. Well, to make sure Tingle will never meet with the
 Princess - he wants her all for himself -, Horse Guy cuts the bridge!
 He informs Team Tingle that a terrible beast dwells in this cave and, with lots
 of flowery prose, wishes Tingle a hasty demise. Suddenly, a sound - something's
-coming! It is the Oousotsuki (おおうそつき - Big Liar Moon?).
+coming. It is The Big Liar!
 The giant monster appears; it grabs H.G. and devours him - only to spit him out
 seconds later,
 right out of the Liar Village. Well, he's safe on his horse.
@@ -2355,12 +2356,12 @@ telepathic (?) communication from the monster, in which the creature explains
 that it is not very pleased to be woken up right now, but it will let the
 intruders live if they can pass its test.
 
-### [F.47.1] Boss Fight: Oousotsuki
+### [F.47.1] Boss Fight: The Big Liar
 This fight is in the form of a pop quiz. Tingle has to answer ten yes/no
 questions each of which has a time limit of only a few seconds. If he answers
 wrong, or if the time is up, it's Game Over, man!! Of course, you can then
 simply answer "yes" on the "Continue y/n" screen and try again.
-The main difficulty here would be that the Oousotsuki asks you rather
+The main difficulty here would be that the The Big Liar asks you rather
 convoluted questions, and you have to answer the Liar way, meaning you have to
 say "yes" if you mean "no", and vice versa. Have no fear, this guide is here -
 to help you with the answers. Here come the questions!
@@ -2389,8 +2390,8 @@ A: No
 
 After answering the questions, the monster awards Kakashi once again with the
 medal before it disappears, and Buriki regains her self-control. The Chief and
-Lia enter the cave. The Chief is relieved that the Oousotsuki is asleep again;
-he will help Tingle and his friends leave the cave.
+Lia enter the cave. The Chief is relieved that the The Big Liar is asleep 
+again; he will help Tingle and his friends leave the cave.
 In front of the village, the Chief and Lia are introduced to Kakashi.
 Lia says: "Good day, poorly made boy", which is to be taken as a compliment,
 I guess?

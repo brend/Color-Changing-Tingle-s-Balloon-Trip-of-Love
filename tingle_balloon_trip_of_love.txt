@@ -1302,7 +1302,7 @@ gas apple.
 
 All Iona knows is that the seeds are currently not to be found in the village;
 she is researching their location, so Tingle should focus on the first two
-ingredients in the meantime: solid and fertilizer. Let's leave.
+ingredients in the meantime: soil and fertilizer. Let's leave.
 A stocky blonde fellow with blond hair has appeared beside the seed store.
 He proclaims that he is going to take Iona to the Dance Party. He asks if you
 have the same intention - answer "yes" (why the heck not?). He finds that

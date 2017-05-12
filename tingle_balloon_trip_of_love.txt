@@ -6,6 +6,7 @@ Japanese title: いろづきチンクルの恋のバローントリップ
 [B] Introduction
 [C] Guide Version History
 [D] Characters
+[D.1] Love Push guide: Women and Their Likes and Dislikes
 [E] Gameplay
 [E.1] Basic Interaction and the Inventory
 [E.2] Action Verbs
@@ -198,18 +199,435 @@ Secondary ability: Can communicate with animals. No, really.
 2. *strength* - Lion uses his immense strength to do all kinds of things to the
    target, e.g. lift rocks, break chains, etc.
 
-## The Rest
-Along the way, Tingle will meet a host of quirky, colorful characters.
-These will be described in time...
+# [D.1] Love Push Guide: Women and Their Likes and Dislikes
+Acknowledgements: Some of this data comes from 
+http://2nd.geocities.jp/orange_plas/
 
-# [D] Gameplay
+たべもの = (f)ood
+ファション = (s)tyle
+インテリア = (d)ecoration
+どうぐ = (t)ool
+しゅみ = (h)obby
+かわいい = (p)retty
+アダルト = (m)ature
+ゴージャス = (g)orgeous
+ちんぴん = (r)arity
+クール = (c)ool
+Food       ?    Pretty   ?
+Style      ?    Cool     ?
+Decoration ?    Mature   ?
+Tool       ?    Gorgeous ?
+Hobby      ?    Rarity   ?
+
+## Little Daughter of the General Store Owner
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   o
+Style      o    Cool     x
+Decoration -    Mature    
+Tool       x    Gorgeous o
+Hobby      o    Rarity   x
+
+## General Store Owner
+Level 1  o
+Level 2   
+Level 3   
+
+Food       x    Pretty   -
+Style      o    Cool     x
+Decoration o    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Iona's Mother
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   x
+Style      x    Cool     -
+Decoration o    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Fruit Seller
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   x
+Style      -    Cool     o
+Decoration o    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   x
+
+## Mushroom Lady
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   x
+Style      o    Cool     o
+Decoration x    Mature   o
+Tool       -    Gorgeous o
+Hobby      o    Rarity   o
+
+## Pants-Headed Girl
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   o
+Style      o    Cool     o
+Decoration o    Mature   x
+Tool       -    Gorgeous o
+Hobby      o    Rarity   x
+
+## Iona
+### 1st meeting (page 6)
+Level 1  o
+Level 2  -
+Level 3  -
+
+Food       o    Pretty   x
+Style      x    Cool     -
+Decoration x    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+### 2nd meeting (going back to page 8)
+Level 1  x
+Level 2  o
+Level 3   
+
+Food       o    Pretty   x
+Style      x    Cool     -
+Decoration x    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+### 3rd meeting (get Iona's green dress on page 8 to unlock her iron heart)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       o    Pretty   o
+Style      o    Cool     x
+Decoration o    Mature   o
+Tool       -    Gorgeous x
+Hobby      x    Rarity   -
+
+## Field Rental Lady
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   x
+Style      -    Cool     x
+Decoration o    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Auntie Florist
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   o
+Style      o    Cool     o
+Decoration o    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Auntie Fortune Teller
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   o
+Style      o    Cool     o
+Decoration o    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Zonmi
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   o
+Style      o    Cool     o
+Decoration x    Mature   -
+Tool       o    Gorgeous x
+Hobby      o    Rarity   o
+
+## Guard Lady
+Level 1  o
+Level 2   
+Level 3   
+
+Food       x    Pretty   -
+Style      o    Cool     x
+Decoration o    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   x
+
+## Clerk
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   o
+Style      o    Cool     x
+Decoration x    Mature   o
+Tool       -    Gorgeous o
+Hobby      x    Rarity   -
+
+## Crashed-Into Old Lady
+Level 1  x
+Level 2  o
+Level 3   
+
+Food       -    Pretty   x
+Style           Cool     o
+Decoration x    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Lia
+### 1st meeting (page 11)
+Level 1  x
+Level 2  o
+Level 3   
+
+Food       o    Pretty   o
+Style           Cool     o
+Decoration o    Mature   -
+Tool       o    Gorgeous o
+Hobby      x    Rarity   x
+
+### 2nd meeting (going back to page 11)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       o    Pretty   x
+Style      o    Cool     x
+Decoration o    Mature   o
+Tool       -    Gorgeous x
+Hobby      -    Rarity   o
+
+### 3rd meeting (lake near Liar Village after 2nd Love Push)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       o    Pretty   o
+Style      o    Cool     -
+Decoration o    Mature   o
+Tool       -    Gorgeous x
+Hobby      x    Rarity   x
+
+## Bartender
+Level 1  x
+Level 2  o
+Level 3   
+
+Food       x    Pretty   x
+Style      o    Cool     o
+Decoration x    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   -
+
+## Prison Warden
+Level 1  x
+Level 2  o
+Level 3  o
+
+Food       o    Pretty   -
+Style      o    Cool     o
+Decoration o    Mature   x
+Tool       o    Gorgeous o
+Hobby      x    Rarity   x
+
+## One-Pup the Dog
+Level 1  x
+Level 2  o
+Level 3  o
+
+Food       o    Pretty   o
+Style      o    Cool     o
+Decoration o    Mature   x
+Tool       x    Gorgeous o
+Hobby      o    Rarity   o
+
+## Blue Lady
+Level 1  x
+Level 2  o
+Level 3  o
+
+Food       o    Pretty   -
+Style      x    Cool     x
+Decoration x    Mature   o
+Tool       o    Gorgeous o
+Hobby      -    Rarity   x
+
+## Azusa
+### 1st meeting (page 5)
+Level 1  o
+Level 2   
+Level 3   
+
+Food       x    Pretty   o
+Style      x    Cool     o
+Decoration o    Mature   x
+Tool       o    Gorgeous -
+Hobby      o    Rarity   o
+
+### 2nd meeting (going back to page 9)
+Level 1  x
+Level 2  o
+Level 3   
+
+Food       -    Pretty   o
+Style      x    Cool     o
+Decoration x    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+### 3rd meeting (give her the model train after the second Love Push)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       -    Pretty   x
+Style      x    Cool     o
+Decoration x    Mature   -
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Sensei
+### 1st meeting (going back to page 3)
+Level 1  o
+Level 2   
+Level 3   
+
+Food       o    Pretty   o
+Style      -    Cool     o
+Decoration o    Mature   x
+Tool       o    Gorgeous x
+Hobby      x    Rarity   o
+
+### 2nd meeting (going back to page 3 after the 1st Love Push)
+Level 1  x
+Level 2  o
+Level 3   
+
+Food       o    Pretty   o
+Style      -    Cool     o
+Decoration o    Mature   x
+Tool       o    Gorgeous x
+Hobby      x    Rarity   o
+
+### 3rd meeting (page 10, West Side, after the 2nd Love Push)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       x    Pretty   o
+Style      o    Cool     o
+Decoration o    Mature   -
+Tool       x    Gorgeous o
+Hobby      -    Rarity   x
+
+## Stone Statue
+Level 1  x
+Level 2  o
+Level 3   
+
+Food       -    Pretty   x
+Style      o    Cool     o
+Decoration x    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Old Farmer Lady
+Level 1  o
+Level 2  o
+Level 3  o
+
+Food       o    Pretty   o
+Style      o    Cool     o
+Decoration o    Mature   o
+Tool       o    Gorgeous o
+Hobby      o    Rarity   o
+
+## Princess
+### 1st meeting (page 12)
+Level 1  x
+Level 2  o
+Level 3   
+
+Food       o    Pretty   o
+Style      o    Cool     -
+Decoration o    Mature   x
+Tool       -    Gorgeous o
+Hobby      x    Rarity   x
+
+### 2nd meeting (going back to page 12)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       -    Pretty   x
+Style      o    Cool     x
+Decoration -    Mature   o
+Tool       x    Gorgeous o
+Hobby      o    Rarity   o
+
+### 3rd meeting (fulfill the Princess' request after the 2nd Love Push)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       x    Pretty   -
+Style      o    Cool     x
+Decoration o    Mature   o
+Tool       -    Gorgeous o
+Hobby      o    Rarity   x
+
+### 4th meeting (going back to page 12 after the Princess disappears)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       o    Pretty   x
+Style      x    Cool     -
+Decoration x    Mature   o
+Tool       o    Gorgeous o
+Hobby      -    Rarity   o
+
+### 5th meeting (going back to page 12 after the 4th Love Push)
+Level 1  x
+Level 2  x
+Level 3  o
+
+Food       -    Pretty   x
+Style      o    Cool     o
+Decoration o    Mature   x
+Tool       x    Gorgeous o
+Hobby      o    Rarity   x
+
+# [E] Gameplay
 The game plays very much like a classic point-and-click adventure. The gameplay
 design is very streamlined, in that you only ever use the touchscreen to issue
 commands to Tingle and interact with the environment. The only exceptions are
 the "Dungeons" which may alternatively be played with the D-Pad, and a certain
 instance where you need to use the microphone.
 
-## [D.1] Basic Interaction & the Inventory
+## [E.1] Basic Interaction & the Inventory
 Just tap stuff with the touch pen! It couldn't be easier. Whenever you tap
 something in the environment, one of two things happens: Either Tingle
 interacts directly with the object, making something happen like walking
@@ -222,7 +640,7 @@ the item on. To scroll through your inventory, use the stylus to turn the
 valve-like thing (a valve?) in the bottom right, using a circular motion.
 To close the inventory, tap the "X" in the middle of the valve.
 
-## [D.2] Action Verbs
+## [E.2] Action Verbs
 Like a classic adventure game (think "Monkey Island"), this game makes use
 of verbs to allow you to issue commands to Tingle. The verbs are the words
 appearing in the green boxes in the top left corner of the inventory screen
@@ -240,7 +658,7 @@ the bottle, but the bottle happens to be full, select the bottle
 from your inventory. A special verb, "empty", will appear to the right of the
 touchscreen. If you touch it, Tingle will empty out the bottle.
 
-## [D.3] The Friends Are Here to Help!
+## [E.3] The Friends Are Here to Help!
 Once Tingle meets new friends who accompany him on his journey, he can make use
 of their special abilities. To do that, tap the object on the screen you want
 to use an ability on. When the inventory screen shows up, tap the portrait of
@@ -249,7 +667,7 @@ A list of two or three abilities, presented vertically, will show up. Tap the
 desired ability to use it on the selected object.
 See the above character summaries for a description of their abilities.
 
-## [D.4] Love Push
+## [E.4] Love Push
 Later in the game, Tingle will gain the ability to win the favor of female
 characters by giving them thoughtful gifts. This is called the "Love Push".
 You engage the Love Push by tapping on the female in question, then selecting
@@ -257,7 +675,7 @@ the orange "Love Push" button which is positioned just to the right of the
 green verb buttons. I'll explain how the Love Push works at the appropriate
 point in the walkthrough.
 
-## [D.5] Keyboard Input
+## [E.5] Keyboard Input
 Now and again, you'll be forced to enter text to progress in the game.
 Sometimes it's not very important what you enter - e.g. the protagonist's name
 in the very beginning -, but most of the time you need to answer quiz questions
@@ -2371,9 +2789,7 @@ A: Yes
 A: No
 3. Q: Is the goal of your journey to *not* reach the City?
 A: Yes
-4. Q: おまえとこの　きかいは　ふうしゃの
-むらで　であった？
-*not sure about the meaning*
+4. Q: Did you first meet this machine in Vegetable Village?
 A: Yes
 5. Q: Do women find you attractive?
 A: Yes

@@ -51,7 +51,7 @@ Japanese: Irodzuki Chinkuru No Koi No Balloon Trip
 [F.31] Page 8 Prologue
 [F.32] Page 8 Chapter 1: A Wish Come True !?
 [F.33] Page 8 Chapter 2: Crash! Gas Apple
-[F.33.1] Boss Fight: Evil Walking Plant ᐧ Gas Apple Tree
+[F.33.1] Boss Fight: Evil Walking Plant "Gas Apple Tree"
 [F.34] Page 8 Chapter 3: The Heroes Who Saved the Village
 [F.35] Page 9 Prologue
 [F.36] Page 9 Chapter 1: The Third Trap
@@ -709,7 +709,7 @@ search for it in this layout overview to find its position.
 た　ち　つ　て　と　　 わ　　　を　　　ん
 な　に　ぬ　ね　の　　 ぁ　ぃ　ぅ　ぇ　ぉ
 は　ひ　ふ　へ　ほ　　 っ　ゃ　ゅ　ょ
-゛　゜　　　ー　、　。 ・　　　　　　　␣
+"　゜　　　ー　、　。 ・　　　　　　　␣
 - Layout ア (Katakana)
 ア　イ　ウ　エ　オ　　　マ　ミ　ム　メ　モ
 カ　キ　ク　ケ　コ　　　ヤ　　　ユ　　　ヨ
@@ -717,7 +717,7 @@ search for it in this layout overview to find its position.
 タ　チ　ツ　テ　ト　　　ワ　　　ヲ　　　ン
 ナ　ニ　ヌ　ネ　ノ　　　ァ　ィ　ゥ　ェ　ォ
 ハ　ヒ　フ　ヘ　ホ　　　ッ　ャ　ュ　ョ
-゛　゜　　　ー　、　。　・　　　　　　　␣
+"　゜　　　ー　、　。　・　　　　　　　␣
 - Layout A (Latin)
 A B C D E F G H I J K
 L M N O P Q R S T U V
@@ -725,7 +725,7 @@ W X Y Z       ? ! , .
 a b c d e f g h i j k
 l m n o p q r s t u v
 w x y z       + - × ÷
-0 1 2 3 4 5 6 7 8 9 ␣
+0 1 2 3 4 5 6 7 8 9  
 
 # [F] Walkthrough
 "Quit the jibba-jabba, let's go already!", I can just hear you say.
@@ -1352,8 +1352,8 @@ Oh, the phone is ringing. Pick it up. There's a voice talking to you, it seems
 they are waiting for your response. Now this is funny, you have to talk into
 your DS's microphone to solve this puzzle. Say anything, but talk loudly,
 really, get roaring. Whistling worked for me, too. Once the other "party" has
-heard you, the receiver pops open and voilà, another train part. Mochimochi
-gets right back to work.
+heard you, the receiver pops open and you've got yourself another train part. 
+Mochimochi gets right back to work.
 Back to the junkyard. See the soda cans on top of the fence? Now and then, one
 of them will glint in the sun. Try to hit the glinting can with the slingshot;
 it will fall down and walk out of the junkyard. Next, tap the pile of junk in
@@ -1653,7 +1653,7 @@ He gives you a _fishing rod_ as a present and teaches you *fishing!*
 ## [F.26] Page 6 Chapter 4: The Energy Eel
 If you like, you can talk to the fisherman to learn all sorts of stuff about
 *fishing!*. For example, he tells you that if you're trying to catch the energy
-eel (™), you'll have to wait till the wind has died down completely.
+eel, you'll have to wait till the wind has died down completely.
 Also, Tingle will need some bait. For that, walk to where the fruit stand is
 and go northwest onto the boardwalk. There's an older woman with pink hair
 there; this is the mother of the pink-haired girl you spooked when you first
@@ -2833,7 +2833,7 @@ Lion's childhood. Kakashi is interested in knowing what kind of child Lion
 was - well-behaved? strong? Lion tells them he was a rather timid child.
 Suddenly, the train itself speaks up: We are nearing the City! Soon after, the
 Chinliner reaches the Gate of Emerarera City
-(エメラレラᐧシティ - weird name).
+(エメラレラ　シティ - weird name).
 Luckily, with the passport ready, this time Tingle has no trouble passing, and
 the friends enter the City. From the castle's balcony, a skinny blonde woman
 watches their arrival through a telescope. She puts on a funky pair of glasses,

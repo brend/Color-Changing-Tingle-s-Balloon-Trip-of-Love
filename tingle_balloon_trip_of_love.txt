@@ -3680,6 +3680,9 @@ NOTE: Most of the side quests can only be completed after you finished the main
 story line. New events and characters to interact with will populate "the world
 thereafter" of many pages.
 
+Acknowledgements: Some of this data comes from 
+http://2nd.geocities.jp/orange_plas/
+
 [G.1] Bottoms Up (Page 1)
 You can do this side quest only very late in the game, once you get the
 Miracle Medicine you need to cure the Princess of her illness.

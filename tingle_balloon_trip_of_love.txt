@@ -93,6 +93,40 @@ Japanese: Irodzuki Chinkuru No Koi No Balloon Trip
 [F.59.4] Boss Fight: Majiyo
 [F.59.5] After the Fight
 [G] Side Quests
+[G.1]  Bottoms Up (Page 1)
+[G.2]  The Mysterious Clock (Page 1)
+[G.3]  Time Travel Tingle (Page 2)
+[G.4]  My Brother the Cook (Page 2)
+[G.5]  The Munching Monk (Page 3)
+[G.6]  Angel Rest Your Wings (Page 3)
+[G.7]  And Then He Croaked (Page 4)
+[G.8]  The Seven Fruits (Page 4)
+[G.9]  Fairy Tale (Page 4)
+[G.10] The Nutty Monk (Page 4)
+[G.11] Bed Wet No More (Page 4)
+[G.12] Trainforce (Page 5)
+[G.13] The Muddy Monk (Page 5)
+[G.14] Sunny Smile (Page 6)
+[G.15] Village Fishing Champ (Page 6)
+[G.16] World Fishing Champ (Page 6)
+[G.17] The Hungry Vagabond (Page 7)
+[G.18] Dungeon Master (Page 7)
+[G.19] Presents For Everyone (Page 8)
+[G.20] Hidden in the Flower Bed (Page 8)
+[G.21] Choo Choo of Love (Page 9)
+[G.22] Where the Heart is (Page 10)
+[G.23] Eagle's Reemployment (Page 10)
+[G.24] Storehouse Sniper (Page 10)
+[G.25] Tell the Truth (Page 11)
+[G.26] His Name is Baron (Page 11)
+[G.27] Coin Collector (Page 11)
+[G.28] Grandfather's Bequest (Page 12)
+[G.29] Another Man's Treasure (Page 12)
+[G.30] Max Heart (Page 12)
+[G.31] Shinobi Road (Page 12)
+[G.32] I Finally Saw It! (Page 12)
+[G.33] I Swear on the Truth (Page 13)
+[G.34] The Last Spoiler (Page 13)
 
 # [A] Game and Guide Information and Legal Thingy
 Game copyright: 2009 by Nintendo
@@ -3650,15 +3684,15 @@ thereafter" of many pages.
 You can do this side quest only very late in the game, once you get the
 Miracle Medicine you need to cure the Princess of her illness.
 
-Return to page 1's "the world thereafter", to the farm Tingle woke up on when
-he first entered this world.
+Return to page 1's "the world thereafter", to the farm where Tingle woke up
+when he first entered this world.
 Leave the house and walk east to the place with the machine that grandpa and
 grandma used to fire Tingle towards the City. What happened here!? Grandpa
 and grandma are laying on the ground, their faces green. Next to grandpa you'll
 see a letter. Pick it up and read it. It's from a person who asked them to do
 something, and sent them some sort of drink to toast after a job done well.
 
-Use the Miracle Medicine you got on page ??? and use it on grandma. She'll
+Use the Miracle Medicine you got on page 12 and use it on grandma. She'll
 recover immediately and ask you to heal grandpa as well. Agree to that and
 watch the elderly people regain their senses. When they're done talking,
 present the letter you just picked up to grandpa. The two of them will explain
@@ -3674,7 +3708,7 @@ Return to page 1 and use the wind-up key on the keyhole on the right of the
 clock hanging in Tingle's room.
 Watch the Glockenspiel, and the side quest is complete.
 
-[G.3] The Man Who Leapt Through Time (Page 2)
+[G.3] Time Travel Tingle (Page 2)
 You complete this side quest as soon as you perform your first time leap with
 the red balloon.
 This side quest is completed in the course of the main story line.
@@ -3683,26 +3717,40 @@ This side quest is completed in the course of the main story line.
 In the flower garden of page 2's "the world thereafter", you'll find the
 red ladybug. Talk to him and he will tell you the story of the youngest ladybug
 brother who went out into the world all by himself.
+Use the balloon to fly to page 7's "the world thereafter", and meet a 
+mysterious purple stranger on the platform. He'll ask you to do something for
+him, which leads to you completing the page 7 side quest "The Hungry Vagabond".
+Having done that, fly to page 12 and find the vagabond again on the roof of the
+inn (you have to use the arrow to look up for that). He'll give you a special
+dish he cooked and ask you to find the right person to eat it. Walk all the way
+west to where Nimistop is, and give him the dish. He likes it so much that he
+wants to meet the cook who made it. Walk back to the inn and talk to the
+vagabond to get him to meet Ministop. They'll agree to go into business 
+together and fly off, leaving the vagabond's bundle behind. Pick up the bundle.
+Fly back to page 2' "the world thereafter" and give the bundle to the red
+ladybug in the back yard. He'll taste the vagabond's – who's really the 
+youngest of the ladybug brothers – cooking and it'll bring tears to his eyes.
+Strictly from nostalgia, of course. The side quest is now complete.
 
-[G.5] The Munching Monk
+[G.5] The Munching Monk (Page 3)
 In page 3's "the world thereafter", grab some corn from the heap next to the
 farm cottage. Enter the cottage and throw the corn into the fireplace to make
 roast corn. Return to the entrance of the corn fields, where the gate with the
 big sign is. Use the roast corn on the statue next to the gate. The statue
 munches the corn and the side quest is complete.
 
-[G.6] Angel Rest Your Wings
+[G.6] Angel Rest Your Wings (Page 3)
 In page 3's "the world thereafter", perform the Love Push on Sensei to gain
 her 2nd heart. Then when she asks you if you think she should take a break
 from work and go to the Dance Party, answer "yes" to complete the sude quest.
 
-[G.7] And Then He Croaked
+[G.7] And Then He Croaked (Page 4)
 Go to the swamp on page 4. Shoot at the frontmost one of the target-shaped
 flowers with your slingshot. This will make the frog come closer. Pick up the
 frog. Use the frog on the breathing tube that's sticking out of the swamp to
 complete the quest.
 
-[G.8] The Nutty Monk
+[G.8] The Nutty Monk (Page 4)
 This one's just a little bit tricky. Find 4 different nuts in the bushes that
 are scattered all about page 4. Tap on each and every bush you see in all the
 locations, until you've found the 4 nuts there are to find.
@@ -3720,7 +3768,7 @@ lodge. Use the nuts on the statue and watch it munch on them. For every kind
 of nut you feed it, a tiny little flower blooms at its feet. Once you've fed
 it all 4 kinds of nuts, the side quest is completed.
 
-[G.9] Bed Wet No More
+[G.9] Bed Wet No More (Page 4)
 On page 4, go to where the fallen yellow tree is. You'll find a yellow ladybug.
 Talk to him. He'll ask you to catch a fish called a Nushy in the forest swamp
 for him, to cure his bedwetting. 
@@ -3728,7 +3776,7 @@ Walk to the swamp in the east and fish until you catch one, then return to the
 yellow ladybug and give it to him. Consuming this special fish cures the
 ladybug from his bedwetting! 
 
-[G.10] Fairy Tale
+[G.10] Fairy Tale (Page 4)
 On page 4, after you've completed the side quest "The Frog That Moved On",
 go to the stretch of trees where the Face Tree is. A knocking sound is coming
 from one of the trees. Check the tree to find a woodpecker.
@@ -3739,17 +3787,17 @@ pick it up. Walk east to the swamp and put the insect into the breathing tube
 sticking out of the water. Watch the events unfold before your unbelieving
 eyes!
 
-[G.11] The Seven Fruits
+[G.11] The Seven Fruits (Page 4)
 On page 4, return all of the Face Tree's children to their parent.
 This side quest is part of the main story line.
 
-[G.12] The Muddy Monk
+[G.12] The Muddy Monk (Page 5)
 On page 5, use some water on the dirty stone statue next to the platform to
 remove the moss from it (you can get water from the tap right outside the
 garage, put it in your bottle). Then tap the statue and choose the rightmost
 verb, "polish". Tingle will polish the statue, completing the side quest.
 
-[G.13] Trainforce
+[G.13] Trainforce (Page 5)
 Find the 3 train-related relics:
 
 1. The Priority Strap: You'll find this strap-like handle in the shelf in the
@@ -3760,7 +3808,7 @@ Find the 3 train-related relics:
 As soon as you've collected all the train items, they will combine to form the
 almighty Trainforce!
 
-[G.14] Sunny Smile
+[G.14] Sunny Smile (Page 6)
 On page 6's "the world thereafter", go to Iona's mom and ask her to do some 
 farm work with just Tingle. 
 At this time of day, the vegetables have a special stage in their ripening
@@ -3768,7 +3816,7 @@ process: a pink smiley-faced mandrake.
 If you manage to pull out 5 of these smile mandrakes in one game, you have
 completed this side quest. Tingle will get a "PK cart" for use at the DunJon.
 
-[G.15] Best Fisherman in the Village
+[G.15] Village Fishing Champ (Page 6)
 On page 6, after returning the fishing expert's dentures, talk to him to learn
 about Fishing!. Ask him about collecting fish stamps. He'll give you a stamp
 card. You can get a stamp for each of the fish that can be caught in 
@@ -3793,7 +3841,7 @@ until you've caught all the fish, then give all of them to the fishing master
 (use the rightmost verb with him to sell all your fish) to fill your stamp card
 and complete the side quest.
 
-[G.16] Best Fisherman in the World
+[G.16] World Fishing Champ (Page 6)
 On page 6, after completing the side quest "Best Fisherman in the Village",
 the pro fisherman takes away your regular fishing stamp card and gives you
 a golden fishing stamp card that has room for 10 more fish. While the fish in
@@ -3818,7 +3866,7 @@ all your fish) to fill your golden stamp card and complete the side quest.
 
 A "GR Cart" for use at the DunJon will be your reward.
 
-[G.17] The Hungry Vagabond
+[G.17] The Hungry Vagabond (Page 7)
 Visit the red ladybug by the fallen tree on page 2 and listen to his story
 about the youngest of the ladybug brothers who went out into the wold on his 
 own.
@@ -3845,7 +3893,7 @@ All of the food items can be found on page 7, in nighttime Vegetable Village.
 Return to the cloaked figure on the platform. Give all of the food items you've
 gathered to them. The mysterious figure thanks you and takes their leave.
 
-[G.18] Dungeon Master
+[G.18] Dungeon Master (Page 7)
 Collect all of the DanJon cartridges that are scattered all over the world and
 hand them over to Dan.
 
@@ -3872,19 +3920,38 @@ hand them over to Dan.
 - Cart SBL: Complete the page 13 side quest "I Finally Saw It!" to receive 
   this.
   
-[G.19] Presents for Everyone
+[G.19] Presents for Everyone (Page 8)
 Perform 3 Love Pushes on Iona.
 
-[G.20] Hidden in the Flower Garden
+1. Meet her on Page 6 after catching the Energy Eel for the Mushroom Lady.
+2. Meet her again in Page 8's "the world thereafter".
+3. On Page 8, get her green dress at the seed shop, and give it to her to
+   unlock her final heart and do the Love Push on her one last time.
+
+[G.20] Hidden in the Flower Bed (Page 8)
 Perform the Love Push on Monpe, the girl working in the flower fields in
 Vegetable Village. Then, after completing the page 4 side quest "Fairy Tale",
 shoot the girl to the top right in the same screen as Monpe with your 
 slingshot (yes!). Surprise!
 
-[G.21] Choo Choo of Love
+[G.21] Choo Choo of Love (Page 9)
 Perform 3 Love Pushes on Azusa.
 
-[G.22] Eagle's Reemployment
+1. In Page 5's "the world thereafter", meet her in the basement of the train
+   garage. Give her the train model you found in the tunnel on page 9 to unlock
+   her heart.
+2. Meet her again in Page 9's "the world thereafter", in the train tunnel.
+   You'll need the Train Force (see the side quest of the same name) to unlock
+   her heart and do the Love Push.
+3. On Page 9's "the world thereafter", after winning her 2nd heart, she'll ask
+   you to do something for her. Flip the C switch, get on her train and ride it
+   to the next stop, the one with the phone box. Call her on the phone and ask
+   her to flip the H switch. Ride to the next station, open the box that's
+   there to find the Ultra Express Train A. Keep riding the tracks until you're
+   back at the tunnel, get off the train and give the model train to her to
+   unlock her final heart.
+
+[G.22] Eagle's Reemployment (Page 10)
 Complete the page 4 side quest "The Seven Fruits".
 Go to page 10's "world thereafter". Talk to Eagle, who is standing in front of
 the passport office. He'll ask you to collect business cards from businesses in
@@ -3898,21 +3965,30 @@ Question 2: Pelican (ペリカン)
 Question 3: Face Tree (じんめんじゅ)
 Go back to the passport office.
 
-[G.23] We Meet Again Far Away
+[G.23] We Meet Again Far Away (Page 10)
 Perform 3 Love Pushes on Sensei.
 
-[G.24] Storehouse Sniper
+1. Meet her in Page 3's "the world thereafter".
+2. Meet her once again in Page 3's "the world thereafter".
+3. Meet her on Page 10, in West Side.
+
+[G.24] Storehouse Sniper (Page 10)
 Talk to the Boss (the unmasked clown) on page 10's "world thereafter" and play
 the mice-shooting mini game. Score 11 points or more.
 
-[G.25] Coin Collector
+[G.25] Coin Collector (Page 11)
 On page 11's "world thereafter", give 50 Demon Coins to the person waiting in
 Liar Village, right next to the entrance. A BP cart will be your reward.
 
-[G.26] Tell the Truth
+[G.26] Tell the Truth (Page 11)
 Perform 3 Love Pushes on Lia.
 
-[G.27] His Name is Baron
+1. Meet her on Page 11 as part of the main story line.
+2. Meet her in Page 11's "the world thereafter"; she's in the Grinfrown shrine.
+3. Meet her again in Page 11's "the world thereafter". She's sitting at the 
+   pond south of Liar Village.
+
+[G.27] His Name is Baron (Page 11)
 Talk to the village chief of Liar Village. He will tell you about a monster
 named Baron that lurks outside the village at night. Agree to attempt to slay
 the monster. He will give you the Grief Mask, which, when worn, will attract
@@ -3925,16 +4001,30 @@ Use the Miracle Medicine that you used to cure the Princess on Baron.
 After the battle, the Grief Mask transforms into the Serene Mask.
 Take the mask back to the village chief.
 
-[G.28] Max Heart
+[G.28] Max Heart (Page 12)
+Do the Love Push 5 times on the Princess.
+
+1. Meet her on Page 12 as part of the main story line.
+2. After completing the game, meet her in Page 12's "the world thereafter" in
+   the Castle.
+3. After the 2nd Love Push, she'll ask you to get her a treat from the inn.
+   Show the note she gives you to the inn's bartender, learn that she tricked
+   you, and return Page 12's "the world thereafter" right away.
+4. After the 3rd Love Push, run an errand for her again. Return to her only to
+   learn that she already left. Return to Page 12's "the world thereafter" 
+   again.
+5. After the 4th Love Push, return to Page 12's "the world thereafter" one more
+   time. 
+
 After Love Pushing the Princess 5 times, go to the Princess' room and talk to
 her. Touch the bird on the veranda and request Lion to interpret for you.
 When everybody has left, talk once more to the Princess.
 
-[G.29] Treasures Found in a Room
+[G.29] Treasures Found in a Room (Page 12)
 After you've completed the page 12 side quest "Max Heart", go to the Princess'
 room and pick up the glittering item. Give it to Sigma Jet at the inn.
 
-[G.30] Shinobi Road
+[G.30] Shinobi Road (Page 12)
 Complete the page 8 side quest "Hidden in the Flower Garden". Perform the Love
 Push on One-Pup, the Mushroom Lady's mushroom dog on page 12. The little dog
 will tag along for awhile.
@@ -3950,18 +4040,18 @@ with your slingshot.
 Proceed towards the Castle and pull out the buried ninja using Lion's 
 "strength". A cartridge EBK will be your reward for completing the side quest.
 
-[G.31] Grandfather's Bequest
+[G.31] Grandfather's Bequest (Page 12)
 On page 9's "world thereafter", examine the equipment where Zonmi, the 
 operator, used to work. You'll find a glass pendulum.
 Take it to the man sitting in the inn on page 12.
 
-[G.32] I Swear on the Truth
+[G.32] I Swear on the Truth (Page 13)
 Go to the inn on page 13 and take the journalist's armband from one of the
 tables. Leave the inn.
 In front of the inn, you'll see the journalist rummaging around in a hole in
 the wall. Give the armband to him to complete the side quest.
 
-[G.33] I Finally Saw It!
+[G.33] I Finally Saw It! (Page 13)
 Talk repepatedly to the boy on the ground floor of the inn. He'll tell you
 about the lucky star he'd like to see. A star made of machines that can be
 seen in the night sky and fulfills wishes by sending down a silver angel...
@@ -3974,7 +4064,7 @@ Touch it and choose "yes" when the game asks if you want to tell the boy about
 it. Tingle will tell the boy. Follow the boy up the stairs. Talk to the boy.
 He makes his wish, and the side quest is completed. Your reward is a SBL cart.
 
-[G.34] The Last Spoiler
+[G.34] The Last Spoiler (Page 13)
 After you have completed EVERY OTHER side quest (I know!), you are ready to
 tackle the final one: the final Zoom Zoom quiz!
 

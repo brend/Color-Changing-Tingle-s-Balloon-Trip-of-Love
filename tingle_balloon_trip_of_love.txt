@@ -1,4 +1,4 @@
-ï»¿# Color Changing Tingle's Balloon Trip of Love
+# Color Changing Tingle's Balloon Trip of Love
 Japanese: Irodzuki Chinkuru No Koi No Balloon Trip
 
 # Table of Contents
@@ -239,16 +239,16 @@ Secondary ability: Can communicate with animals. No, really.
 Acknowledgements: Some of this data comes from 
 http://2nd.geocities.jp/orange_plas/
 
-ãŸã¹ã‚‚ã® = (f)ood
-ãƒ•ã‚¡ã‚·ãƒ§ãƒ³ = (s)tyle
-ã‚¤ãƒ³ãƒ†ãƒªã‚¢ = (d)ecoration
-ã©ã†ã = (t)ool
-ã—ã‚…ã¿ = (h)obby
-ã‹ã‚ã„ã„ = (p)retty
-ã‚¢ãƒ€ãƒ«ãƒˆ = (m)ature
-ã‚´ãƒ¼ã‚¸ãƒ£ã‚¹ = (g)orgeous
-ã¡ã‚“ã´ã‚“ = (r)arity
-ã‚¯ãƒ¼ãƒ« = (c)ool
+‚½‚×‚à‚Ì = (f)ood
+ƒtƒ@ƒVƒ‡ƒ“ = (s)tyle
+ƒCƒ“ƒeƒŠƒA = (d)ecoration
+‚Ç‚¤‚® = (t)ool
+‚µ‚ã‚İ = (h)obby
+‚©‚í‚¢‚¢ = (p)retty
+ƒAƒ_ƒ‹ƒg = (m)ature
+ƒS[ƒWƒƒƒX = (g)orgeous
+‚¿‚ñ‚Ò‚ñ = (r)arity
+ƒN[ƒ‹ = (c)ool
 Food       ?    Pretty   ?
 Style      ?    Cool     ?
 Decoration ?    Mature   ?
@@ -719,47 +719,47 @@ or give passwords. You will need to enter the answers using the three input
 layouts provided by the game: Hiragana & Katakana (the two Japanese
 syllabaries) and the Latin alphabet.
 When the game displays the "keyboard", you can switch between the three input
-layouts using the pink ã‚, ã‚¢, and A buttons at the bottom of the screen.
+layouts using the pink ‚ , ƒA, and A buttons at the bottom of the screen.
 Some of the Japanese characters have alternate versions created by adding
-so-called Dakuten (or ten-ten), or Handakuten (ã‚› or ã‚œ). To write such a
+so-called Dakuten (or ten-ten), or Handakuten (J or K). To write such a
 character, first type the character without the Dakuten/Handakuten, then tap
-the symbol to be added. Examples: To write the character ã , first write ãŸ,
-then tap the ã‚› symbol. To write ãƒ‘, first write ãƒ, then add ã‚œ.
+the symbol to be added. Examples: To write the character ‚¾, first write ‚½,
+then tap the J symbol. To write ƒp, first write ƒn, then add K.
 Note that several characters exist in a large and a small form,
-e.g. ã‚„ vs. ã‚ƒ.
+e.g. ‚â vs. ‚á.
 Take care not to confuse them, as they are not interchangeable.
 When in doubt, use the search method described below.
-The pink left arrow button (â†) can be used to delete a character.
-Use the longish yellow "confirm" button (ã‘ã£ã¦ã„) to confirm your input.
+The pink left arrow button (©) can be used to delete a character.
+Use the longish yellow "confirm" button (‚¯‚Á‚Ä‚¢) to confirm your input.
 To cancel, use the red "back" button in the lower right corner.
 These are the layouts of the individual input methods, and how to reach them.
 **Hint:** If you have a hard time finding the correct character, use
 your browser's text search feature: copy the character you're looking for and
 search for it in this layout overview to find its position.
 
-- Layout ã‚ (Hiragana)
-ã‚ã€€ã„ã€€ã†ã€€ãˆã€€ãŠ ã€€ã€€ã¾ã€€ã¿ã€€ã‚€ã€€ã‚ã€€ã‚‚
-ã‹ã€€ãã€€ãã€€ã‘ã€€ã“ ã€€ã€€ã‚„ã€€ã€€ã€€ã‚†ã€€ã€€ã€€ã‚ˆ
-ã•ã€€ã—ã€€ã™ã€€ã›ã€€ãã€€ ã€€ã‚‰ã€€ã‚Šã€€ã‚‹ã€€ã‚Œã€€ã‚
-ãŸã€€ã¡ã€€ã¤ã€€ã¦ã€€ã¨ã€€ã€€ ã‚ã€€ã€€ã€€ã‚’ã€€ã€€ã€€ã‚“
-ãªã€€ã«ã€€ã¬ã€€ã­ã€€ã®ã€€ã€€ ãã€€ãƒã€€ã…ã€€ã‡ã€€ã‰
-ã¯ã€€ã²ã€€ãµã€€ã¸ã€€ã»ã€€ã€€ ã£ã€€ã‚ƒã€€ã‚…ã€€ã‚‡
-"ã€€ã‚œã€€ã€€ã€€ãƒ¼ã€€ã€ã€€ã€‚ ãƒ»ã€€ã€€ã€€ã€€ã€€ã€€ã€€â£
-- Layout ã‚¢ (Katakana)
-ã‚¢ã€€ã‚¤ã€€ã‚¦ã€€ã‚¨ã€€ã‚ªã€€ã€€ã€€ãƒã€€ãƒŸã€€ãƒ ã€€ãƒ¡ã€€ãƒ¢
-ã‚«ã€€ã‚­ã€€ã‚¯ã€€ã‚±ã€€ã‚³ã€€ã€€ã€€ãƒ¤ã€€ã€€ã€€ãƒ¦ã€€ã€€ã€€ãƒ¨
-ã‚µã€€ã‚·ã€€ã‚¹ã€€ã‚»ã€€ã‚½ã€€ã€€ã€€ãƒ©ã€€ãƒªã€€ãƒ«ã€€ãƒ¬ã€€ãƒ­
-ã‚¿ã€€ãƒã€€ãƒ„ã€€ãƒ†ã€€ãƒˆã€€ã€€ã€€ãƒ¯ã€€ã€€ã€€ãƒ²ã€€ã€€ã€€ãƒ³
-ãƒŠã€€ãƒ‹ã€€ãƒŒã€€ãƒã€€ãƒã€€ã€€ã€€ã‚¡ã€€ã‚£ã€€ã‚¥ã€€ã‚§ã€€ã‚©
-ãƒã€€ãƒ’ã€€ãƒ•ã€€ãƒ˜ã€€ãƒ›ã€€ã€€ã€€ãƒƒã€€ãƒ£ã€€ãƒ¥ã€€ãƒ§
-"ã€€ã‚œã€€ã€€ã€€ãƒ¼ã€€ã€ã€€ã€‚ã€€ãƒ»ã€€ã€€ã€€ã€€ã€€ã€€ã€€â£
+- Layout ‚  (Hiragana)
+‚ @‚¢@‚¤@‚¦@‚¨ @@‚Ü@‚İ@‚Ş@‚ß@‚à
+‚©@‚«@‚­@‚¯@‚± @@‚â@@@‚ä@@@‚æ
+‚³@‚µ@‚·@‚¹@‚»@ @‚ç@‚è@‚é@‚ê@‚ë
+‚½@‚¿@‚Â@‚Ä@‚Æ@@ ‚í@@@‚ğ@@@‚ñ
+‚È@‚É@‚Ê@‚Ë@‚Ì@@ ‚Ÿ@‚¡@‚£@‚¥@‚§
+‚Í@‚Ğ@‚Ó@‚Ö@‚Ù@@ ‚Á@‚á@‚ã@‚å
+"@K@@@[@A@B E@@@@@@@_
+- Layout ƒA (Katakana)
+ƒA@ƒC@ƒE@ƒG@ƒI@@@ƒ}@ƒ~@ƒ€@ƒ@ƒ‚
+ƒJ@ƒL@ƒN@ƒP@ƒR@@@ƒ„@@@ƒ†@@@ƒˆ
+ƒT@ƒV@ƒX@ƒZ@ƒ\@@@ƒ‰@ƒŠ@ƒ‹@ƒŒ@ƒ
+ƒ^@ƒ`@ƒc@ƒe@ƒg@@@ƒ@@@ƒ’@@@ƒ“
+ƒi@ƒj@ƒk@ƒl@ƒm@@@ƒ@@ƒB@ƒD@ƒF@ƒH
+ƒn@ƒq@ƒt@ƒw@ƒz@@@ƒb@ƒƒ@ƒ…@ƒ‡
+"@K@@@[@A@B@E@@@@@@@_
 - Layout A (Latin)
 A B C D E F G H I J K
 L M N O P Q R S T U V
 W X Y Z       ? ! , .
 a b c d e f g h i j k
 l m n o p q r s t u v
-w x y z       + - Ã— Ã·
+w x y z       + - ~ €
 0 1 2 3 4 5 6 7 8 9  
 
 # [F] Walkthrough
@@ -771,10 +771,10 @@ In the title screen, touch the screen, and three save game slots will appear.
 If you've bought the game second-hand, there might be save games already
 present; in that case pick one and press the rightmost of the three buttons
 below the save game slots in order to erase the game data
-(the button says ã€Œã•ãã˜ã‚‡ã€).
+(the button says u‚³‚­‚¶‚åv).
 The game will ask you to confirm the deletion, and you'll see
-a nodding, air guitar playing Tingle ("yes"/ã€Œã¯ã„ã€)
-and one who shakes his head ("no"/ã€Œã„ã„ãˆã€).
+a nodding, air guitar playing Tingle ("yes"/u‚Í‚¢v)
+and one who shakes his head ("no"/u‚¢‚¢‚¦v).
 Pick "yes", and "yes" again, when the game asks you to confirm the choice.
 **Notice that "yes" is usually to the left and "no" to the right, but not
 necessarily so**; I think the designers sometimes switch their places to keep
@@ -785,13 +785,13 @@ So, now that you have a fresh and unspoiled save game slot, pick it and confirm
 that "yes", you want to start from that state.
 
 ## [F.1] Opening Sequence
-Now you'll be treated to the opening sequence, introducing the gameâ€™s hero, a
+Now you'll be treated to the opening sequence, introducing the gamefs hero, a
 35-year-old bachelor. "No job, no money. And of course, no girlfriend.", the
 intro states, and that describes our hero to a T. There he is, watching TV and
 scratching his butt in his filthy bachelor pad, when a fascinating show comes
 on - "The Ripening Hero's Heroic Trip of Love." I'm using the word "ripening",
 because that's what Wikipedia uses in the game's description; the Japanese word
-ã€Œè‰²ã¥ãã€ can mean "color-changing", "ripening", or hint at "erotic love",
+uF‚Ã‚«v can mean "color-changing", "ripening", or hint at "erotic love",
 which is kind of the theme of the game. Anyway, the show promotes
 a book "for adults" about romance, and heroics, and stuff.
 The hero meets a lot of girls, a princess even, and that's what wins our
@@ -799,7 +799,7 @@ bachelor over. When a strangely angular bespectacled lady announces a price
 drop from 4,800 to 2 rupees, he jumps to the phone and orders a copy. Delivery
 is prompt, to say the least. The delivery man asks our bachelor to sign, and
 now you must choose a name for him. I think you can sign pretty much any name
-but ã€Œãƒãƒ³ã‚¯ãƒ«ã€(read "Chinkuru" or "Tincle", Tingle's Japanese name),
+but uƒ`ƒ“ƒNƒ‹v(read "Chinkuru" or "Tincle", Tingle's Japanese name),
 because that name has a special significance later on. If you'd like to use
 Latin letters for the name, press the button labeled "A". After signing the
 slip, our bachelor immediately dives into the book, ignoring his dog's warning
@@ -837,7 +837,7 @@ zoom in on it, and use the hammer on it to crack it open. A hundred rupees -
 the previous game's Tingle would have been overjoyed by this finding.
 This game, however, is about girls and love and making girls fall in love
 (though we'll later see that in order to make them, we need presents, and for
-that, lots of rupees. So yeahâ€¦). I guess the single most defining quality of
+that, lots of rupees. So yeahc). I guess the single most defining quality of
 being a Tingle is having an unhealthy obsession with something, be it fairies,
 money, or girls. That, and the green tights and hoodie. Zoom out. If you want,
 have a look at the picture that's on the table. For some reason, the kid (?)
@@ -861,7 +861,7 @@ He must be talking about the hammer, right? So show it to him.
 But somehow, that's not what he wants. He needs the *thing*, the *thing*,
 you know! No, I don't know. Well, Gramma can tell you more details, he says.
 So, back to Gramma. Tap her and choose the second verb from the left,
-ã€Œã¯ãªã™ã€("talk"). When the time comes to choose a conversation topic,
+u‚Í‚È‚·v("talk"). When the time comes to choose a conversation topic,
 pick the third one. Gramma will hazard the guess that Uncle meant a different
 tool. Now pick the fourth option to ask about that "different tool".
 She'll tell Tingle to look in the toolbox and gives him the _key_ he needs.
@@ -872,7 +872,7 @@ It will greet you with the fascinating line, "Hello. I am a pig."
 That may be some Zen stuff, I don't know. All I know is, you tap on the
 rotating pink cel-shaded chunk of bacon, confirm "yes", you want to save your
 game, pick a slot, and confirm twice. Presto, your game is saved.
-Now for the toolbox. Use the key on it. It opeâ€¦..eeh? It doesn't open.
+Now for the toolbox. Use the key on it. It opec..eeh? It doesn't open.
 Wrong key. That's just the kind of game this is, you know. Back outside, show
 the key to Gramma. She'll think about where the key could be... Let's see,
 before she woke Tingle up, she fed Coco the chicken - and there we see
@@ -882,13 +882,13 @@ something glimmering in its nest.
 So walk over to the west and just take what's in the nest, "yes"? Well, not if
 Coco has anything to say about it. We'll have to just lure him away from there
 for a second. Tap the metal silo, and choose the only verb available to inspect
-it. This will result in adding a verb: ã€Œã†ã”ã‹ã™ã€("move").
+it. This will result in adding a verb: u‚¤‚²‚©‚·v("move").
 Try this next. Aha!
 Chicken feed comes pouring out. Quickly, while Coco is distracted, take what's
 in the nest. It's the _key to the toolbox_! Back into the house we go. Luckily,
 Tingle's travel is expedited by Coco's vigorous pecking. Open the toolbox to
-see that Uncle's much asked for *thing* isâ€¦ a _screwdriver_. Take it with you
-and head back to Uncle. Show the screwdriver to him.ã€€
+see that Uncle's much asked for *thing* isc a _screwdriver_. Take it with you
+and head back to Uncle. Show the screwdriver to him.@
 Finally, Uncle is pleased. He'll now direct Tingle's attention to the junk heap
 beside which he is standing. By this machine Tingle will travel to the City,
 he says. But it's too junky, so he asks you to apply his *thing* to it.
@@ -934,14 +934,14 @@ buzzing around him are any indication. A strange beetle-like person appears for
 a second and hurriedly leaves again.
 
 ## [F.7] Page 2 Chapter 1: Dung-Clouded Sky
-(At least I think that's what the title saysâ€¦ Yucky yet strangely poeticâ€¦)
+(At least I think that's what the title saysc Yucky yet strangely poeticc)
 A save pig pops up. Save whenever you feel like it, you can't really die in
 this game. But better safe than sorry, you never know when your DS might
 lose its juice.
 We can't do much in this screen but stare at the sheep (?).
 Leave for the north. A strange house stands by the path, ignore it for the time
 being. Continue to the east where you will find a fountain. Ah, perfect.
-Tap the falling water and choose the second verb, ã€Œã‚ã‚‰ã†ã€("wash").
+Tap the falling water and choose the second verb, u‚ ‚ç‚¤v("wash").
 What's that? The statue moves its stream of water away from you!
 But in doing so, it reveals a lever sitting right above its, ahem, posterior.
 Tap that, and drag the lever from the "rotate" position into the
@@ -958,7 +958,7 @@ the house. Several of those bug creatures ogle you and then say it's cool,
 you can come in. Enter the house.
 
 ## [F.8] Page 2 Chapter 2: Great Fortune Teller
-So here we have several ladybug-type guys living together with aâ€¦ large pink
+So here we have several ladybug-type guys living together with ac large pink
 lady who is currently asleep. She is also, as the bugs tell Tingle,
 a Fortune-Teller. Go talk to her. Wake her up! There's a bit of confusion about
 who you are, and then she proceeds to use her awesome powers of fortune-telling
@@ -1001,7 +1001,7 @@ pile of bricks on top of which the raven is sitting, and use the verb to
 examine it. Afterwards, use the newly appeared verb to peek inside. Wah,
 foiled by the giant bird. Guess we're gonna have to scare it away, huh? Tap the
 scarecrow sans head and confirm that you want to climb in there. Tingle does
-his best scarecrow impression, but that only makes the birdâ€¦ throw a baseball
+his best scarecrow impression, but that only makes the birdc throw a baseball
 at him?! Well, let's go get it. Leave the garden. Pick up the _baseball_. Head
 back into the garden. So this crow thinks it can do as it pleases, eh? Well,
 right back atcha, dude! Throw the ball at the crow and try to stay focused
@@ -1013,15 +1013,15 @@ follow you. Talk to the Fortune Teller, and she'll ask of you to take Kakashi
 with you on your journey to the City. Of course you agree. Kakashi is a little
 confused about this proposition, but he agrees to come along for the prospect
 of work on the City's fields. Well, people might not be too far off with their
-strawhead-stereotypesâ€¦
+strawhead-stereotypesc
 Tingle and Kakashi are well-met on this day and do a little dance of joy. From
 now on, you can "use" Kakashi from the item screen whenever you are interacting
 with the environment.
-You can give him one of two commands: ã€ŒãŸã®ã‚€ã€("request")
+You can give him one of two commands: u‚½‚Ì‚Şv("request")
 will send him crawling into small spaces, because that's his awesome power -
-he's small. ã€Œãƒ¯ãƒ©ã€("straw") will make him use a bit of his straw to poke
+he's small. uƒƒ‰v("straw") will make him use a bit of his straw to poke
 around in whatever target you have selected, which will prove very useful, too.
-The Fortune Teller has a parting gift for Tingle: an ancient medal thatâ€¦ oops,
+The Fortune Teller has a parting gift for Tingle: an ancient medal thatc oops,
 dropped it, and it rolled right into the bushes. Not a problem! Tap the bush in
 question and then tap Kakashi's icon in the top right. Select the first command
 to send him into the shrubbery. After a quick introduction into the hows, ifs
@@ -1048,7 +1048,7 @@ Good to know.
 Continue to the northeast. Here, the yellow brick road already ends - in the
 middle of nowhere! It's still under construction. A bit to the left you'll find
 a man and a woman in conversation. The woman diagnoses the man with a sprained
-leg and asks him how he got it. He talks aboutâ€¦ aliens! A silver ball has
+leg and asks him how he got it. He talks aboutc aliens! A silver ball has
 descended from the sky and knocked over his tractor. Could this possibly have
 something to do with Tingle's accident? So, the man's a farmer, and the woman
 is Sensei (I'm not sure if she's a doctor or something else, since "sensei" may
@@ -1066,7 +1066,7 @@ Walk to the left and follow the path. Sure enough, there's a huge silver ball,
 and it's knocked the tractor over. Examine it; Tingle will discover a button.
 Confirm that you want him to press it. A hatch opens in the ball and reveals
 some sort of cockpit. Tap the interior and choose the second verb,
-ã€Œã™ã‚ã‚‹ã€("sit down").
+u‚·‚í‚év("sit down").
 For a moment it looks like Tingle can control the vessel, but in the end it
 rejects him and the "cruise computer" tells him that something called
 "BRK-0001" is its rightful pilot. Leave to the east.
@@ -1097,9 +1097,9 @@ rupees. Leave to the southeast, cross the creek, and arrive once more at the
 farm gate. Looky here! One of those mischievous crows is sitting in its nest on
 top of a tree. You know what to do, right? Hit him with the slingshot! Kakashi
 picks up the dropped _battery_.
-Walk all the way back to the silver person, tap it andâ€¦ What's this? Someone
+Walk all the way back to the silver person, tap it andc What's this? Someone
 has put ears of corn in the compartment instead of batteries!? Tap them and
-take them out using the second verb, ã€Œã¯ãšã™ã€("remove").
+take them out using the second verb, u‚Í‚¸‚·v("remove").
 Put in the batteries and close the lid (2nd verb).
 The person, apparently some kind of robot lady, gets up and begins to project a
 holographic image. Interesting concept.
@@ -1124,7 +1124,7 @@ Examine them. Contents unknown, huh? Go over to Peter and ask him about the
 drums (4th dialog choice). He'll tell you that they contain oil for use in his
 machines. Ask him about the oil (5th choice), and he'll offer you some, which
 you accept gladly. Oh, but he's missing his pump. Which you brought! He walks
-over to the barrels and opens one. He draws a nice bottle of oil for youâ€¦ and
+over to the barrels and opens one. He draws a nice bottle of oil for youc and
 loses it because it's so slippery! Walk south all the way to the gate - Kakashi
 is in the crow's grip! Whip out your slingshot and hit the beast three times to
 free your buddy. Now let's get that oil bottle! Walk up to the oil barrels
@@ -1172,13 +1172,13 @@ having been destroyed. Kakashi tries to talk her into going along with the
 party; back him up by saying "yes". He then asks if she's on her way to seek
 something, and she confirms, without going into detail. Now Kakashi does the
 friendship dance and asks Tingle to join. Tap Buriki - denied! Well, as long
-as she's coming alongâ€¦
+as she's coming alongc
 Now we have a straw man seriously lacking in the brains department, and an
 emotionally distant iron lady. This is shaping up nicely; I wonder who else we
-might meetâ€¦
-Buriki's commands are ã€ŒãŸã®ã‚€ã€("request"),
+might meetc
+Buriki's commands are u‚½‚Ì‚Şv("request"),
 which will cause her to kick the target (seriously),
-and ã€Œã¶ã‚“ã›ãã€("analysis"), which will reveal useful information
+and u‚Ô‚ñ‚¹‚«v("analysis"), which will reveal useful information
 about the target and sometimes trigger events in the process.
 OK, let's head back into the forest and see what's there to see. Follow the
 path until you pass the huge tree at the bend again, and into the woods.
@@ -1199,22 +1199,22 @@ tour through the woods again. That means, go north, and then west, and follow
 the path all the way until you slide down that bank once again.
 *CRASH* You'll hear that noise again. Walk to the left, only to find the bell
 blocking the whole path this time. Mmh, can't seem to budge it, so head to the
-right a bitâ€¦ Wait, did that thing just move? Go back to the bell and use the
+right a bitc Wait, did that thing just move? Go back to the bell and use the
 "examine" verb. *Holy crap, there's a huge beast thing under there and I'm
 coughing up my skeleton bone!!*
 It's a really big lion guy who tries to rob the friends of their rupees, or
 else crush them with his admittedly impressive strength. However, he seems
-easily scared - he flinches from a bat flying pastâ€¦ Let's try something here.
+easily scared - he flinches from a bat flying pastc Let's try something here.
 Use the scary book on the lion. Wow, that's really scary. The creepy faces
 Tingle makes enhance the effect greatly. The lion has turned a nice shade of
 scaredycat blue, but he's still holding his ground. Read the book to him again,
-and again. That finally does it! He runs away like the bigâ€¦ cat he is.
+and again. That finally does it! He runs away like the bigc cat he is.
 
 ## [F.16] Page 4 Chapter 2: Hunt for a Coward
 Follow him to the south. From there, go west, and you'll reach a spooky cabin
 in the woods. Try the door - locked, what else. But there's a hole underneath
 the porch; send Kakashi in there. Somehow he manages to reach the inside of the
-cabin. Try the door again; your combined powers make Captain Plaâ€¦ er, I mean,
+cabin. Try the door again; your combined powers make Captain Plac er, I mean,
 your combined efforts open the door. Tap the door once more to enter.
 Boy, is it ever spooky inside! And dark as well. Tap the curtain to make Tingle
 pull it aside. Now tap the apron lying on the table. It has a pocket - tap the
@@ -1225,7 +1225,7 @@ locked box. There's a _box of matches_ inside, take it with you. Walk all the
 way back to the cabin, enter it, and use the matches on the candle to light it.
 Ah, that's better! Nice deer head on the wall there. Another candle has come
 into view, light that, too. Another deer head, another candle. Light the next
-one. And a third deer hâ€¦ wait a minute, those antlers look fishy, don't you
+one. And a third deer hc wait a minute, those antlers look fishy, don't you
 think? Let's try something here - pull out your slingshot and fire away at the
 phony third deer head. It doesn't seem to like that and pulls away and out of
 sight. For some reason, a bottle falls from the ceiling and rolls to the left.
@@ -1241,7 +1241,7 @@ Mmh. I see...  This seems like the perfect opportunity to employ
 Buriki's special powers.
 Tell her to kick that hinder! She does, and very thoroughly. But it
 seems this butt might need one more kick. Let Tingle do the honors, using the
-second verb. Haha, take that, you cowardly lionâ€¦ who is walking away from
+second verb. Haha, take that, you cowardly lionc who is walking away from
 behind the shack?! Well, seems like Tingle p.o.'d one mother of a squirrel, and
 he's ready to pay him back.
 Well, the lion's gone once more. Let's do the forest tour to find him again.
@@ -1279,8 +1279,8 @@ City. Kakashi informs him that the party are going there, too. They come to the
 conclusion that an audience with the King may remedy Lion's situation, and
 decide to travel together from now on.
 This means you'll be able to use Lion's two powers. His first command,
-ã€ŒãŸã®ã‚€ã€("request"), is a surprising ability to talk to any kind
-of animal. The second one, ã€Œã‹ã„ã‚Šãã€("superhuman strength"),
+u‚½‚Ì‚Şv("request"), is a surprising ability to talk to any kind
+of animal. The second one, u‚©‚¢‚è‚«v("superhuman strength"),
 will make him exert his strength in order to lift, move, or otherwise
 manipulate objects.
 Now it's finally time to leave these cursed woods. How could Lion's strength
@@ -1348,7 +1348,7 @@ controller and apply the lever to the knob on top. There! Now pull the lever
 from left to right to switch the thing on. The train seems to be firing up for
 a second, but then it turns off again. A hatch opens in the middle of the
 dashboard. Tap it to investigate.
-Now there's a sight you don't seeâ€¦ ever!? Inside there is some kind of layered
+Now there's a sight you don't seec ever!? Inside there is some kind of layered
 contraption with lots of empty sockets. In the only socket that's not empty,
 there's a small, funny-looking guy. He proclaims that a new driver has come
 (he must mean Tingle), and the view pans to reveal lots more funny-looking guys
@@ -1407,7 +1407,7 @@ his question, and he'll leave yet again.
 Walk back and enter the garage again. Use the battery on the lamp that's
 sitting on a crate to the left. Take the _signal lamp_. Use the valve wheel on
 the hole right at the tip of the steam train (the smokebox? I don't know
-trainsâ€¦) Use Lion's *strength* on the now affixed wheel to open the
+trainsc) Use Lion's *strength* on the now affixed wheel to open the
 smokebox (?). Have Kakashi climb in (*request*), and he'll find nothing inside.
 ... or so he thinks, but there's a train part caught in his straw hair.
 It asks you if you have already found the part called "Retsu." Say "yes", and
@@ -1464,38 +1464,38 @@ Note: a slash ("/") means a line break
 this site: http://g-k-h.com/ds/tincle2/page05.php
 The credit for this list goes to them.
 
-- ãˆãã¡ã‚‡ã†ã®ã€€ãªã¾ãˆã‚’ã€€ï¼
-ãƒ•ãƒ«ãƒãƒ¼ãƒ ã€€ãŠã“ãŸãˆã€€ãã ã•ã„ã€‚
+- ‚¦‚«‚¿‚å‚¤‚Ì@‚È‚Ü‚¦‚ğ@^
+ƒtƒ‹ƒl[ƒ€@‚¨‚±‚½‚¦@‚­‚¾‚³‚¢B
 Question: Give the full name of the station master.
-Answer: ãƒãƒ¼ã‚·ã‚¢ãƒ»ã‚ªãƒ¼ãƒ©ã‚¤ (Al Aboard)
-- ã“ã®ã€€ã²ãã ã—ã®ã€€ã‚‚ã£ã¨ã‚‚ã€€ï¼
-ã¡ã‹ãã«ã€€ã„ã‚‹ã€€ã“ã¨ã‚Šã¯ã€€ãªã«ã„ã‚ï¼Ÿ
+Answer: ƒn[ƒVƒAEƒI[ƒ‰ƒC (Al Aboard)
+- ‚±‚Ì@‚Ğ‚«‚¾‚µ‚Ì@‚à‚Á‚Æ‚à@^
+‚¿‚©‚­‚É@‚¢‚é@‚±‚Æ‚è‚Í@‚È‚É‚¢‚ëH
 Question: Which color is the bird closest to this place?
-Answer: ã‚ãŠ (blue)
-- ã‚ãŠãã¦ã€€ãƒ“ã‚«ãƒ“ã‚«ã™ã‚‹ã€€ï¼
-ãµã¨ã£ãŸã€€ã‚¢ã‚¤ãƒ„ã®ã€€ãªã¾ãˆã¯ã€€ãªã«ï¼Ÿ
+Answer: ‚ ‚¨ (blue)
+- ‚ ‚¨‚­‚Ä@ƒrƒJƒrƒJ‚·‚é@^
+‚Ó‚Æ‚Á‚½@ƒAƒCƒc‚Ì@‚È‚Ü‚¦‚Í@‚È‚ÉH
 Question: What is the name of the blue, fat train part?
-Answer: ãƒ€ã‚¤ã‚µã‚¯ (Burly)
-- ãŠã˜ã•ã‚“ã®ã€€ã„ãˆã«ã€€ã‚ã‚‹ã€€ï¼
-ã«ã‚“ãã‚‡ã†ã®ã€€ãªã¾ãˆã¯ã€€ãªã«ï¼Ÿ
+Answer: ƒ_ƒCƒTƒN (Burly)
+- ‚¨‚¶‚³‚ñ‚Ì@‚¢‚¦‚É@‚ ‚é@^
+‚É‚ñ‚¬‚å‚¤‚Ì@‚È‚Ü‚¦‚Í@‚È‚ÉH
 Question: What is the name of the doll in the man's house?
-Answer: ã‚³ãƒ¼ãƒ³ã¼ã†ã‚„ (Corn Boy)
-- ã“ã® ãˆãã® ãªã¾ãˆã¯ ãªã«ã‚¹ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ ?
+Answer: ƒR[ƒ“‚Ú‚¤‚â (Corn Boy)
+- ‚±‚Ì ‚¦‚«‚Ì ‚È‚Ü‚¦‚Í ‚È‚ÉƒXƒe[ƒVƒ‡ƒ“ ?
 Question: What is the name of the train station?
-Answer: ã•ã„ã¯ã¦ (Faraway station)
-- ã—ã‚ƒã“ã® ã‚„ã­ã« ãŸã£ã¦ã„ã‚‹<0>ã¯ãŸã® ã„ã‚ã¯ ãªã«ã„ã‚ ?
+Answer: ‚³‚¢‚Í‚Ä (Faraway station)
+- ‚µ‚á‚±‚Ì ‚â‚Ë‚É ‚½‚Á‚Ä‚¢‚é<0>‚Í‚½‚Ì ‚¢‚ë‚Í ‚È‚É‚¢‚ë ?
 Question: What color is the flag?
-Answer: ãã„ã‚ (yellow)
-- ã•ã¦ ã‚„ãã‚‰ã® ãŸã‹ã•ã¯<0>ãªã‚“ã‚¿ã‚«ãƒ¼ã‚µ ã§ã—ã‚‡ã† ?
+Answer: ‚«‚¢‚ë (yellow)
+- ‚³‚Ä ‚â‚®‚ç‚Ì ‚½‚©‚³‚Í<0>‚È‚ñƒ^ƒJ[ƒT ‚Å‚µ‚å‚¤ ?
 Question: What's the tower's height?
 Answer: 14
-- ã—ã‚ƒã“ã® ã‚ã‹ã„ ã‹ã‚“ã°ã‚“ã®<0>ã²ã‚‡ã†ã”ã¯ ãªã‚“ã§ã—ã‚‡ã† ?
+- ‚µ‚á‚±‚Ì ‚ ‚©‚¢ ‚©‚ñ‚Î‚ñ‚Ì<0>‚Ğ‚å‚¤‚²‚Í ‚È‚ñ‚Å‚µ‚å‚¤ ?
 Question: What is the slogan written on the red sign?
-Answer: ãƒãƒ¼ãƒ¢ã‚¢ã†ã£ã‹ã‚Š (Pay attention!)
-- ãƒ”ãƒ³ã‚¯ã„ã‚ã®ã€€ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼ã¨ã¨ã‚‚ã«ã€€ï¼
-ã‹ã‹ã‚ŒãŸã€€ã‚­ãƒ£ãƒƒãƒã‚³ãƒ”ãƒ¼ã¯ï¼Ÿ
+Answer: ƒm[ƒ‚ƒA‚¤‚Á‚©‚è (Pay attention!)
+- ƒsƒ“ƒN‚¢‚ë‚Ì@ƒLƒƒƒ‰ƒNƒ^[‚Æ‚Æ‚à‚É@^
+‚©‚©‚ê‚½@ƒLƒƒƒbƒ`ƒRƒs[‚ÍH
 Question: What is the catchphrase that goes together with the pink character?
-Answer: ã‚ã•ã ï¼ãã£ã¨ã‘ï¼ (Let's eat!)
+Answer: ‚ ‚³‚¾I‚­‚Á‚Æ‚¯I (Let's eat!)
 
 With that taken care of, enter the final round of the zoom-zoom quiz.
 
@@ -1609,7 +1609,7 @@ his trust. Answer "yes"; I mean, has Tingle got anything to lose? He will now
 hand you the _girl notebook_ with which Tingle can keep track of his
 relationships with the various women he meets on his journey. Now Tingle is
 ready for his training - his *love training* (just imagine I just said that in
-a rich, deep voice, like velvet chocolate poured over a baby tigerâ€¦ I lost my
+a rich, deep voice, like velvet chocolate poured over a baby tigerc I lost my
 train of thought.)
 The perfect test subject is the little crying girl in the general store.
 Loveya removes the barrels, so now you can move freely through the village in
@@ -1632,7 +1632,7 @@ Now to get the little girl to stop crying. Tap her - this will create an entry
 in the girl notebook. Have a look at the data: one heart (grey), the love meter
 (empty), and a photo of the girl (crying). Continue. When the usual
 inventory/action menu appears, choose the orange button to the right of the
-green verb buttons, ã€Œãƒ—ãƒƒã‚·ãƒ¥ã€("push"), to engage in the Love Push.
+green verb buttons, uƒvƒbƒVƒ…v("push"), to engage in the Love Push.
 See section E.4 Love Push to learn more about that mechanic.
 Once you are successful, the small girl will stop crying. She'll tell her
 mother to come out. Tap her, and Tingle will create a new entry in his girl
@@ -1645,7 +1645,7 @@ you'll probably need some more gifts. Follow the village main street in either
 direction until you reach the fruit shop. Follow the boardwalk next to the
 fruit shop to the northwest, and walk along until you meet Loveya again.
 He has set up shop here; you can buy from him using the third verb,
-ã€Œã‹ã†ã€("buy").
+u‚©‚¤v("buy").
 This is where money comes into play, since buying all the gifts for the girls
 will prove to be very expensive very soon. In the village, you can get money by
 having Buriki *kick* the palm trees and collecting the falling fruit. There's
@@ -1717,7 +1717,7 @@ any bait and wait until the sinker goes under with a "blubb", then pull it up
 by repeatedly swiping upwards. You should be able to get the energy eel fairly
 easily; I did it on the first try when I was writing this guide. You can
 recognize the eel by its blue color, yellow eyes, curvy shape and this text:
-ã‚²ãƒ³ã‚­ã‚¦ãƒŠã‚®
+ƒQƒ“ƒLƒEƒiƒM
 Once you have the eel, walk to the fruit stand and give it to the
 Mushroom Lady. Another satisfied customer! She leaves to meet with her husband
 and enjoy some eel.
@@ -1737,7 +1737,7 @@ visit Iona in her seed store. The fruit vendor leads the way.
 ## [F.28] Page 7 Chapter 1: Miss Village
 Walk over to the seed store. The fruit vendor is standing in front of it and
 knocking at the shutters. With success! Iona seems a bit paranoid, looking out
-of a tiny slit thereâ€¦ She knows about the gas apple, but refuses to talk to
+of a tiny slit therec She knows about the gas apple, but refuses to talk to
 unenlightened individuals such as Tingle and his friends. Luckily, the fruit
 vendor vouches for them. Even so, Iona, a beautiful girl, won't be won over
 easily. A-ha! Get pushing and win that heart of hers. The first one, that is.
@@ -1756,7 +1756,7 @@ where you fought the monkey. Iona gives you a _letter of introduction_ to
 present to the field's owner. Answer "yes" to her question to get it.
 2. *Fertilizer:* You'll need fertilizer to make the tree grow quickly.
 That is, you need the dust from the wings of the Perfect Butterfly
-(ã‚¼ãƒƒã‚³ãƒ¼ãƒãƒ§ã‚¦, seems to be a bit of wordplay).
+(ƒ[ƒbƒR[ƒ`ƒ‡ƒE, seems to be a bit of wordplay).
 3. *Gas apple seeds:* Arguably most important, you'll need the seeds of the
 gas apple.
 
@@ -1768,17 +1768,17 @@ He proclaims that he is going to take Iona to the Dance Party. He asks if you
 have the same intention - answer "yes" (why the heck not?). He finds that
 amusing. His name is Nimimam Nimistop (a pun on "Minimum Ministop"?). He's got
 it all planned out; he'll get the girl and he won't lose to Tingle.
-All rightâ€¦ I guess?
+All rightc I guess?
 Let's get the soil first. Walk to where the flower shop is. At the foot of the
 stairs, notice the strange contraption hanging down from the trees on a rope?
 Examine it (first verb). Afterwards, pull on the string (second verb). It seems
 to be some sort of telephone: A voice demands you show some ID. Use Iona's
 letter of introduction on the box. After verifying the letter, the Magic Voice
 demands you answer a question, as well: What is the name of the monkey that's
-being kept by Iona's place? Answer: ãƒã‚µãƒ«
+being kept by Iona's place? Answer: ƒ}ƒTƒ‹
 Ascend the stairs. The voice belongs to a purple-clad lady. The mere fact that
 she agrees to see you doesn't mean she'll do business with you, so Tingle must
-win her heart first. Wow, she grows aâ€¦ flower for Tingle? She then asks him if
+win her heart first. Wow, she grows ac flower for Tingle? She then asks him if
 it's ok if she calls him "darling"; agree to that, I guess. She then awards
 Tingle with a _field ticket_ which enables him to use her fields to grow stuff.
 One condition fulfilled already - that was easy!
@@ -1821,7 +1821,7 @@ Iona will prepare for the planting and raising of the apple seeds.
 Tap the boat and confirm that you want to cross the swamp. Soon you reach an
 island. Go north. You reach the gate to the ruins. Tap the gate to open it and
 enter.
-Pitch-black darkness. Suddenly, lights go on and revealâ€¦ some sort of nerd
+Pitch-black darkness. Suddenly, lights go on and revealc some sort of nerd
 cave? Amid game-related figurines and posters and memorabilia there are two
 weird-looking guys. These are Dan and John, the keepers of the Dungeon
 (get it?). The dungeon is a dangerous place that provides a challenge for real
@@ -1849,11 +1849,11 @@ northeast of the map; try to make your way through the maze to reach the exit
 of the third level. You'll be pulled up and given some rupees for each coin
 you collected.
 Now the real fun begins. Ring the bell to get Dan's attention and use the first
-verb, ã€Œãƒ€ãƒ³ã‚¸ãƒ§ãƒ³ã€("dungeon").
+verb, uƒ_ƒ“ƒWƒ‡ƒ“v("dungeon").
 From now on, playing a dungeon will cost you rupees, but don't worry, it's
 only 30 rupees for now, and usually you'll get much more than that back as a
 reward. Choose the newly presented dungeon,
-ã€Œã¨ã‚“ã§ã‚‚ãƒ©ãƒ“ãƒªãƒ³ã‚¹ã€("laughable labyrinth", the red cartridge).
+u‚Æ‚ñ‚Å‚àƒ‰ƒrƒŠƒ“ƒXv("laughable labyrinth", the red cartridge).
 Confirm that you will pay 30 rupees for the game. This dungeon is a little
 bigger than the first one, and there are some enemies. Keep an eye on the map
 and try to get to the little golden star-icon-thingies. Usually they indicate
@@ -1902,7 +1902,7 @@ place, with the Fortune Teller having her hinder stuck in the door.
 *Page 2, the World Hereafter:* Open the door and enter the Fortune Teller's
 house. The pink lady asks Tingle if he's forgotten anything - to her it seems
 like he's only gone a minute. Try to give her the flower - now she also wants
-presents! Once you start, it never stopsâ€¦ OK, give her some and win her heart.
+presents! Once you start, it never stopsc OK, give her some and win her heart.
 If you don't happen to have any presents with you, talk to the red ladybug:
 He will give you a present that you can then give to the Fortune Teller.
 Afterwards, try to give her the flower again. She accepts it and is overjoyed
@@ -1950,7 +1950,7 @@ right away!
 ## [F.32] Page 8 Chapter 1: Fruit of Your Labor!?
 Start walking into the village. The others are standing on the hill.
 Lion directs your attention to a red something that has appeared on the fields
-you rented. Could it beâ€¦? Walk on up to the fields. There really is already a
+you rented. Could it bec? Walk on up to the fields. There really is already a
 fully grown gas apple tree there! Tap the top part of the tree, where the
 fruits are attached. Use the first verb to examine them. Then, use the second
 verb to try and pluck an apple. Holy crap, the tree is actually a huge monster,
@@ -1969,12 +1969,12 @@ punched by a walking tree. Next, walk to the pier beside the general store.
 Kakashi is floating in the water; get him out with your fishing rod. Finally,
 walk to the flower shop. Buriki is sticking head first in the ground;
 use Lion's *strength* to pull her out. Everyone's back together again, now
-let's take on that plant. Walk up the stairsâ€¦
+let's take on that plant. Walk up the stairsc
 
-### [F.33.1] Boss fight: Evil Walking Plant ãƒ»ã€€Gas Apple Tree
+### [F.33.1] Boss fight: Evil Walking Plant E@Gas Apple Tree
 Look at you, your first boss fight! I remember it like it was yesterday when
 you were still a 35-year-old bachelor living in filth with only your small dog
-to keep you companyâ€¦
+to keep you companyc
 But I digress. First off, don't be afraid of boss fights, you can't really die.
 If you are defeated, the guys will just tumble down the stairs, and you can try
 again.
@@ -2037,12 +2037,12 @@ around. The train departs, onward to adventure!
 ## [F.35] Page 9 Prologue
 The Chinliner's departure is being watched. Who holds the binoculars?
 None other than Horse Guy. He makes a call on his cell phone (does Link know
-things like that exist? That would make his journeys a heck of a lot easierâ€¦)
-and we learn that his name is Segare (ã‚»ã‚¬ãƒ¼ãƒ¬). Apparently, he is
+things like that exist? That would make his journeys a heck of a lot easierc)
+and we learn that his name is Segare (ƒZƒK[ƒŒ). Apparently, he is
 talking to his mom, informing her of Tingle's progress. Whoa, he even wears a
 crown, those things cost up to a million bells in Animal Crossing. Fancy boy,
 eh? He seems determined not to let Tingle interfere with his chances to ask the
-Princess out for the Dance Party. He spurs his horse, Umare (ã‚¦ãƒãƒ¼ãƒ¬), â€¦
+Princess out for the Dance Party. He spurs his horse, Umare (ƒEƒ}[ƒŒ), c
 Whoops, how embarrassing.
 
 ## [F.36] Page 9 Chapter 1: The Third Trap
@@ -2050,7 +2050,7 @@ The Chinliner speeds along the yellow railroad track. Inside, Kakashi shows of
 his medal once again to pass the time. Lion can't hear it anymore, he knows the
 story of the important medal. Kakashi reveals that he is four years old.
 Meanwhile, Buriki is on her lookout post. Suddenly, she detects a human and a
-large animal up ahead. Uh-ohâ€¦ Horse Guy and Horse (I'll just keep using those
+large animal up ahead. Uh-ohc Horse Guy and Horse (I'll just keep using those
 monikers even though we know their real names, since they're just so much more
 insulting) are setting a trap for the train: some sort of big wooden ramp on
 the tracks. Buriki sounds the alarm, but too late. The train derails! But it
@@ -2067,7 +2067,7 @@ seizures, but she manages to pull herself back together. Using her astounding
 analytic prowess, she correctly states that the railroad tracks here aren't
 yellow, which means that the party is literally on the wrong track. They need
 to get back on the yellow railroad track as quickly as possible. But where are
-they nowâ€¦
+they nowc
 
 ## [F.37] Page 9 Chapter 2: The Lost Tracks
 Walk down the stairs to the right. There is some sort of lever here. Tap it and
@@ -2210,19 +2210,19 @@ The construction crew now prepare for the detonation. The foreman asks if
 you'll do the honors; answer "yes". Tap the plunger box thingy and confirm -
 it's go time!
 As the wall breaks down entirely, sunlight streams into the tunnel and the
-construction crew vanish, turned to dust. They were ghost all along, you seeâ€¦
+construction crew vanish, turned to dust. They were ghost all along, you seec
 (you may have guessed so already)
 Walk north, out of the freshly blown hole. An old man is standing outside.
 He thinks you are ghosts and cowers in fear. Talk to him; he will realize he
 was mistaken. Choose the first dialog option, and he will tell you that there
 are indeed ghost in the tunnels, he saw them with his own eyes. Ever since the
-construction crew vanished, something has been lurking in those passagesâ€¦
+construction crew vanished, something has been lurking in those passagesc
 He does a really good job of telling a scary story. Choose the second option to
 ask who he is. He is Jijee, the mountain keeper (I think; like a house keeper,
 only for mountains?). Choose the third option to ask where we are. We are
 standing on top of the mountain "Kachinko", he says. At the mountain's foot,
 there is the "Big Channel" and the harbor. Finally, choose the fourth dialog
-option to ask about the ghosts' true identities. Maybe the construction crewâ€¦?
+option to ask about the ghosts' true identities. Maybe the construction crewc?
 Something catches gramps' attention, and he walks inside. Follow him. He is
 watching something glittering on the ground. Tap the shining spot. Confirm to
 pick up the _#0 key_. With this, Tingle and friends can finally get back on the
@@ -2240,14 +2240,14 @@ there on, Tingle and friends will have to go on by ferry. The train stops at a
 gate with two guards greeting Tingle.
 
 ## [F.40] Page 10 Chapter 1: Ports and Permissions
- (ã‚«ã‚¤ã‚­ãƒ§ã‚¦ãƒˆã‚³ã‚¦ã‚­ãƒ§ã‚«ã‚­ãƒ§ã‚¯)
+ (ƒJƒCƒLƒ‡ƒEƒgƒRƒEƒLƒ‡ƒJƒLƒ‡ƒN)
 Talk to the guard standing next to the train. He asks to see Tingle's passport.
 He does have a passport, doesn't he? You can try to lie, but in the end, it
 won't do any good. So just say, "yes", no passport (you heard me). The quest
 once again comes to a screeching halt as the party is now forced to come up
 with a passport before they are allowed on the ferry. Buriki has identified a
 city building not far from here, so maybe we can just get ourselves one.
-Walk to the right, and witness a big, funny man doing somethingâ€¦ suspicious?
+Walk to the right, and witness a big, funny man doing somethingc suspicious?
 Ignore him for now. Enter the building.
 This looks very bureaucratic. Lots of people standing in line. Tingle's friends
 take a seat on a bench and entrust him with the task of getting the papers
@@ -2264,7 +2264,7 @@ and get a stamp for that, too. Finally, hand over a portrait photo of yourself
 for use in the passport at the third counter. That's all there is to it!
 He begins questioning Tingle for the passport application process:
 1. Question: Where do you plan to go with your passport?
-Answer: ã‚·ãƒ†ã‚£
+Answer: ƒVƒeƒB
 And that's already it, you've got your first stamp! The next step, however,
 won't be so easy: Tingle - and all of his friends - need a certificate of
 employment. Tap the middle counter. The woman manning it (he), is a little
@@ -2283,7 +2283,7 @@ harbor, or else he can't get a stamp, meaning he won't get a passport.
 Then she has an idea! She shows Tingle a picture of a guy - the weird-looking
 guy you saw in front of the office earlier. Her son, she explains proudly.
 When he was little, she used to call him
-ã€Œã‚·ãƒ¼ã‚·ãƒ¼ã¡ã‚ƒã‚“ã€("little Sheeshee").
+uƒV[ƒV[‚¿‚á‚ñv("little Sheeshee").
 Maybe consult her son, who is himself a salary man, about work?
 
 ## [F.41] Page 10 Chapter 2: Get a Job!
@@ -2308,7 +2308,7 @@ Now she is willing to part with her _rusty key_. The old bat winks and leaves
 at terrifying speed.
 On to the next collision, I guess. Walk back to the west pier, where the
 mustached man in the orange overalls and the hard hat is standing. Give him the
-rusty key. With it, he can move the forklift and open his box ofâ€¦ chicks? Talk
+rusty key. With it, he can move the forklift and open his box ofc chicks? Talk
 to him. He is trying to guess the gender of the individual chicks, and having a
 hard time with it. Use Buriki's *analysis* on the box of chicks. Using her
 robot powers she can perform over fifty megachicks per second. Thus, hard hat
@@ -2322,13 +2322,13 @@ Only Tingle and Kakashi are without work now.
 Leave the scene to the west. Here you'll see "Li'l Sheeshee" (the son of the
 counter lady, remember?) bargaining with some dude in white pajamas. He is
 *very* annoyed by your interruption and asks what you want. Enter his nickname,
-ã‚·ãƒ¼ã‚·ãƒ¼ã¡ã‚ƒã‚“, and enjoy the look of embarrassment on his face.
+ƒV[ƒV[‚¿‚á‚ñ, and enjoy the look of embarrassment on his face.
 He sends Pajamas Guy off with a warning to get rid off him. Now you can talk.
 He'd like to keep this little story between Tingle and him, all right?
 Confirm. He thanks you and tells you that his name is Eagle. He offers you his
 assistance whenever you need it. Great - we need it now! Talk to him again.
 Choose the second dialog option to talk about work. He has a "dangerous"
-proposition for Tingle. It seems Sheeâ€¦ e-hem, "Eagle" was contacted by an
+proposition for Tingle. It seems Sheec e-hem, "Eagle" was contacted by an
 official-looking person who offered him work. To apply for this job, solve
 this riddle: "the staring right eye looking to the west: ching gong ching"
 (or something, I'm not entirely sure). He also gives you _Eagle's memo_.
@@ -2359,8 +2359,8 @@ task. Good job! The turtle gracefully makes an exit. On to the next riddle.
 Walk to the west pier, and you'll see the agent hiding behind a barrel next to
 the waffle-munching fat guy. Talk to the agent. The riddle is: "Mark is in the
 place where there is a strange apparition"
-(ãŠã‹ã—ã„ãã€€ã¸ã‚“ã‹ã®ã€€ã‚ã‚‹ã¨ã“ã€€ã‚ã˜ã‚‹ã—ã€€ã ).
-The screen flashes andâ€¦ some things have changed. You receive a "mark", i.e.
+(‚¨‚©‚µ‚¢‚¼@‚Ö‚ñ‚©‚Ì@‚ ‚é‚Æ‚±@‚ß‚¶‚é‚µ@‚¾).
+The screen flashes andc some things have changed. You receive a "mark", i.e.
 a physical mark to place on anything you might find strange around this area.
 Just select the mark from your inventory and use it on things you find strange.
 Good luck hunting! In case you need help, these are the things:
@@ -2377,24 +2377,24 @@ pirate on the lookout. Hi there, back to Tingle's Rosy Rupee Land with you!
 
 Once you have used all of your marks on strange phenomena, talk to the agent
 again. You get the next riddle: "Tell the cirrocumulus cloud apart from the
-animal cloud" (ã†ã‚ã“ãã‚‚ã€€ã—ã‹ã¨ã€€ã¿ã‚ã‘ã‚ˆã€€ã‚±ãƒ¢ãƒãã‚‚).
+animal cloud" (‚¤‚ë‚±‚®‚à@‚µ‚©‚Æ@‚İ‚í‚¯‚æ@ƒPƒ‚ƒm‚®‚à).
 OK, let's go cloud watching.
 Go to the walkway up the stairs. On the far right end of the walkway, there is
 one of those telescope things. Use it, it costs only one rupee. Let's see,
-there's the sky and some fluffy cloudsâ€¦ Over time, one of the clouds changes
+there's the sky and some fluffy cloudsc Over time, one of the clouds changes
 and begins to look like a pig's snout. Tap that cloud, but don't take too much
 time, because the telescope shuts down after a certain amount of time.
 The agent re-appears and congratulates you for having such powers of
 observation. He says it's time to meet the Boss now. Of course, that also
-involves solving a riddle. "Choco, single berryâ€¦", I don't knowâ€¦
-(ãƒãƒ§ã‚³ã¾ã¶ã—ã€€ãƒ™ãƒªãƒ¼ã®ã€€ã‚·ãƒ³ã‚°ãƒ«ã€€ãã‚‡ã†ãã€€ã‚ˆã).
+involves solving a riddle. "Choco, single berryc", I don't knowc
+(ƒ`ƒ‡ƒR‚Ü‚Ô‚µ@ƒxƒŠ[‚Ì@ƒVƒ“ƒOƒ‹@‚¬‚å‚¤‚¬@‚æ‚­).
 Walk down the stairs at the walkway's east end; walk a little to the left until
 you reach the ice cream-vending clown. Talk to him and agree to buy some
 ice cream for 100 rupees. He asks you which size you want,
-say ã‚·ãƒ³ã‚°ãƒ«("single", second option).
-What flavor? ã‚¹ãƒˆãƒ­ãƒ™ãƒªãƒ¼("strawberry", second option).
-Topping? ã‚¹ãƒ—ãƒ¬ãƒ¼ãƒãƒ§ã‚³("spray choco", fourth option).
-Served in aâ€¦? ã‚«ãƒƒãƒ—("cup", first option).
+say ƒVƒ“ƒOƒ‹("single", second option).
+What flavor? ƒXƒgƒƒxƒŠ[("strawberry", second option).
+Topping? ƒXƒvƒŒ[ƒ`ƒ‡ƒR("spray choco", fourth option).
+Served in ac? ƒJƒbƒv("cup", first option).
 Ah, so the riddle was actually a specific ice cream recipe, sort of a secret
 handshake. The clown suddenly goes all business-like. Even his "voice" changes.
 He reveals himself to be the Boss. He wants you to clean up among the harbors
@@ -2430,7 +2430,7 @@ interview? First question: Was the gas apple tree a formidable enemy?
 "Yes", I guess. (I don't think it matters wether you answer "yes" or "no").
 No time left, so last question: Is Iona Tingle's girlfriend? He he, why not?
 "Yes". And how about a picture to go with the article? Oops, I wonder how
-that'll turn outâ€¦
+that'll turn outc
 Now back to page 10 via magic Ballon trip.
 Talk to Buriki and Lion to pick them up from their work places and obtain
 _Lion's certificate of employment_ and _Buriki's certificate of employment_.
@@ -2453,7 +2453,7 @@ towards Neko Park.
 Enter the park. The thief is standing on the pier. He says that a guy on a
 horse has promised him 100,000,000,000,000 rupees for the medal. On the other
 hand, money isn't that important to the little guy, so he might consider giving
-the medal back in exchange forâ€¦ *something*. Now it's up to Tingle to find the
+the medal back in exchange forc *something*. Now it's up to Tingle to find the
 thing that little thief will value more than a truckload of money. Leave the
 park. Talk to Boss, who will still sell you ice cream, for a discount even,
 only 50 rupees. Get the _ice cream waffle_. Now get the waffle to the west
@@ -2484,7 +2484,7 @@ that Tingle will have to get a ticket at the booth to be able to continue on
 the railroad tracks. A man speaks to the party, he says his name is Great.
 He is a desert guide. He explains that if you want to take a trip through the
 desert, you'll have to be prepared. Lion answers that the group isn't
-interested in the desert. Confirm this. So Great wanders offâ€¦
+interested in the desert. Confirm this. So Great wanders offc
 
 ## [F.45] Page 11 Chapter 1: Paperwork
 Tap the booth to get in line for a ticket. Kakashi gets distracted by some
@@ -2492,9 +2492,9 @@ commotion. Let him. Use the second verb on the person at the counter to get in
 the queue. Suddenly, a bell sounds, and the clerk is on break! Nimistop shows
 up, he is as far on his way to the City as Team Tingle.
 Kakashi is looking at a juggling street performer and his one-horse-band.
-Something's fishy about those two, but I can't quite put my finger on itâ€¦
+Something's fishy about those two, but I can't quite put my finger on itc
 Talk to Nimistop again. He's getting impatient - why should he wait like a
-regular poor person? And he actually gets a ticket! That smug son of aâ€¦
+regular poor person? And he actually gets a ticket! That smug son of ac
 Lion suggests Tingle try it again. Talk to the clerk once more. No dice, he
 says. The guy from before just got his ticket because he's a person of really
 high social standing. If Tingle had someone like that with him, maybe he'd get
@@ -2527,7 +2527,7 @@ prepare your mind and talk to him when you're ready. Ready? Okay, talk to him.
 He will explain the qualities necessary for survival in the desert. Then he
 will as Tingle if he has understood everything. Answer "yes"; he will then ask
 Tingle to repeat the second quality necessary for survival. Besides Powers of
-Observation, you need Tenacity (ã—ã‚…ã†ã­ã‚“, 3rd option).
+Observation, you need Tenacity (‚µ‚ã‚¤‚Ë‚ñ, 3rd option).
 Very good, young grasshopper! For Tingle's final preparation, Great goes and
 hides something in the area around the ticket booth. He returns and shows you
 what it is that Tingle must find - it is printed on his undershirt: a stag
@@ -2553,7 +2553,7 @@ one-time refill of a small amount of water. He gives Tingle the _desert memo_,
 where all of this is written down.
 
 ## [F.46] Page 11 Chapter 2: The Desert Hunt
-(ã•ã°ãã® ã ã„ãã†ã•ã)
+(‚³‚Î‚­‚Ì ‚¾‚¢‚»‚¤‚³‚­)
 
 ### [F.46.1] Fighting in the desert
 The desert works like typical JRPGs in that you'll have random encounters with
@@ -2643,7 +2643,7 @@ Walk north to the giant plant, your new home base. Also, there's a save pig.
 In this new area, walk east, then north into the crevice. This is the place
 where we save Kakashi being held captive. There is some shiny object on the
 ground - tap it. It's 30 demon coins, what luck. But what's that rumbling?
-An earthquake? Something is coming! It'sâ€¦
+An earthquake? Something is coming! It'sc
 The Royal Coffin! The next "boss fight" against some sort of sadistic
 sarcophagus. Regular attacks are useless against this coffin made of stone.
 Careful examination, however, reveals that the thing is held together by
@@ -2692,8 +2692,8 @@ area; if you need a refill, now's the chance. Walk west all through the
 corridor until you reach the cornered monkey. Tap it. It will scream and
 scream, but this time, no help will come. Time to fight the Crank Monkey!
 In the fight scene, the monkey looks bigger than before, and also a lot like a
-cardboard cutoutâ€¦ Let's make this short and sweet. Use Buriki's *request* to
-administer several kicks to the monkey'sâ€¦ area. The cardboard facade keels
+cardboard cutoutc Let's make this short and sweet. Use Buriki's *request* to
+administer several kicks to the monkey'sc area. The cardboard facade keels
 over, revealing one embarrassed monkey. He gives up the crank and is gone.
 Once the fight is over, pick up the _crank_. Walk all the way back to the
 bridge, where the whole monkey business began. Use the crank on the crank box
@@ -2777,7 +2777,7 @@ this village and do all that stupid work. Then she says, "Don't follow me", so
 walk after her, back up the ladder, where the Chief is still waiting. Talk to
 the Chief. He is grateful you have returned his tomboy granddaughter. Now, for
 the offering you're supposed to get, you need the milk of the Nose Goat
-(ãƒãƒŠãƒ¤ã‚® - a play on a "Japanese school of dancing"?).
+(ƒnƒiƒ„ƒM - a play on a "Japanese school of dancing"?).
 The goats in question are the animals in this very room. Traditionally, the
 Chief explains, a young woman chooses and milks the goat for the sacrificial
 milk. Lia "loves milking", a-ha. She describes the chosen goat to Tingle; it
@@ -2872,7 +2872,7 @@ Lion's childhood. Kakashi is interested in knowing what kind of child Lion
 was - well-behaved? strong? Lion tells them he was a rather timid child.
 Suddenly, the train itself speaks up: We are nearing the City! Soon after, the
 Chinliner reaches the Gate of Emerald City
-(ã‚¨ãƒ¡ãƒ©ãƒ¬ãƒ©ã€€ã‚·ãƒ†ã‚£ - weird name).
+(ƒGƒƒ‰ƒŒƒ‰@ƒVƒeƒB - weird name).
 Luckily, with the passport ready, this time Tingle has no trouble passing, and
 the friends enter the City. From the castle's balcony, a skinny blonde woman
 watches their arrival through a telescope. She puts on a funky pair of glasses,
@@ -2942,7 +2942,7 @@ to him to come out again later, to catch the "main attraction".
 That sounds **creepy**!
 
 ## [F.50] Page 12 Chapter 2: Sleepy Night's Sleep Princess
-(ã­ã‚€ã‚Œã¬ã€€ã‚ˆã‚‹ã®ã€€ã­ã‚€ã‚Šã²ã‚)
+(‚Ë‚Ş‚ê‚Ê@‚æ‚é‚Ì@‚Ë‚Ş‚è‚Ğ‚ß)
 Now it's dark outside. Sigma calls for Tingle: "Now is the chance to worship
 the phenomenal figure!" Tingle comes out of his room. He may go first at the
 telescope, what an honor. Tap the telescope. The Princess is peacefully playing
@@ -2979,7 +2979,7 @@ Answer "yes", because we really want to save the Princess, don't we? Mrs. M
 hands Tingle _3 memos_ detailing the required ingredients.
 
 ## [F.51] Page 12 Chapter 3: Hunt for Ingredients
-(ãã–ã„ã‚’ã‚ã¤ã‚ã¦ã„ã¾ã‚€ã‹ã—)
+(‚»‚´‚¢‚ğ‚ ‚Â‚ß‚Ä‚¢‚Ü‚Ş‚©‚µ)
 Alright, let's have a look at those memos first. The details of the ingredients
 are as follows:
 1. In a far-off village, on an elevated point, quietly and glittering, a
@@ -3424,7 +3424,7 @@ the last guest to arrive at the Party.
 He suggests Tingle get a drink from the bar.
 
 ## [F.59] Page 14 Chapter 1: The Kiss of Gratitude
-(ã‹ã‚“ã—ã‚ƒã®ã€€ãã¡ã¥ã‘)
+(‚©‚ñ‚µ‚á‚Ì@‚­‚¿‚Ã‚¯)
 **Note: This chapter is the actual dance party (yay). To successfully complete
 it, you need to dance the Dance of Love (tm) with four girls you met earlier in
 the game: Iona, Liar, Azusa, and Sensei.** For this to happen, you have to have
@@ -3736,8 +3736,8 @@ wants to meet the cook who made it. Walk back to the inn and talk to the
 vagabond to get him to meet Ministop. They'll agree to go into business 
 together and fly off, leaving the vagabond's bundle behind. Pick up the bundle.
 Fly back to page 2' "the world thereafter" and give the bundle to the red
-ladybug in the back yard. He'll taste the vagabond's â€“ who's really the 
-youngest of the ladybug brothers â€“ cooking and it'll bring tears to his eyes.
+ladybug in the back yard. He'll taste the vagabond's - who's really the 
+youngest of the ladybug brothers - cooking and it'll bring tears to his eyes.
 Strictly from nostalgia, of course. The side quest is now complete.
 
 [G.5] The Munching Monk (Page 3)
@@ -3830,14 +3830,14 @@ about Fishing!. Ask him about collecting fish stamps. He'll give you a stamp
 card. You can get a stamp for each of the fish that can be caught in 
 Vegetable Village. The 8 kinds of fish are:
 
-1. Shy Zander (ã‚¤ãƒ³ãƒ‰ã‚¸ãƒ§ã‚¦)
-2. Big Buddy (ã‚­ãƒ§ã‚¦ãƒ€ã‚¤ãƒ–ãƒŠï¼ˆã‚ã«ï¼‰)
-3. Little Buddy (ã‚­ãƒ§ã‚¦ãƒ€ã‚¤ãƒ–ãƒŠï¼ˆãŠã¨ã†ã¨ï¼‰)
-4. Chuzpe Carp (ãƒãƒƒãƒã‚³ã‚¤)
-5. Longleg Shrimp (ã‚¢ã‚·ãƒŠã‚¬ã‚¨ãƒ“)
-6. Sweetfish (ã‚¢ãƒã‚¤ãƒ¯ãƒŠ)
-7. Soleless Shoe (ãã“ãªã—ã‚·ãƒ¥ãƒ¼ã‚º) (these are shoes, rather than actual fish)
-8. Energy Eel (ã‚²ãƒ³ã‚­ã‚¦ãƒŠã‚®)
+1. Shy Zander (ƒCƒ“ƒhƒWƒ‡ƒE)
+2. Big Buddy (ƒLƒ‡ƒEƒ_ƒCƒuƒii‚ ‚Éj)
+3. Little Buddy (ƒLƒ‡ƒEƒ_ƒCƒuƒii‚¨‚Æ‚¤‚Æj)
+4. Chuzpe Carp (ƒoƒbƒ`ƒRƒC)
+5. Longleg Shrimp (ƒAƒVƒiƒKƒGƒr)
+6. Sweetfish (ƒAƒ}ƒCƒƒi)
+7. Soleless Shoe (‚»‚±‚È‚µƒVƒ…[ƒY) (these are shoes, rather than actual fish)
+8. Energy Eel (ƒQƒ“ƒLƒEƒiƒM)
 
 The Energy Eel can only be caught in the fishing spot in front of Iona's shop.
 You have to wait for the wind to die down; the time to cast your line is 
@@ -3858,16 +3858,16 @@ the golden stamp card are from all over the world.
 
 This is where you find them:
 
-- Broken Pole (ã‚´ãƒŸã¤ã‚Šã): Page 3, irrigation channel
-- Old Tire (ããšã‚¿ã‚¤ãƒ¤): Page 3, irrigiation channel
-- Dullet (ã‚ºãƒœãƒ©): Page 3, irrigation channel
-- Unseen Trout (ãƒ„ãƒ¬ãƒ³ã‚®ãƒ§): Page 3, irrigation channel
-- Dumb Snapper (ãƒã‚«ã‚µã‚®): Page 3, irrigation channel
-- Nushy (ãƒŒãƒƒã‚·ãƒ¼): Page 4, swamp
-- Jet Bass (ã‚¸ã‚§ãƒƒãƒˆãƒã‚¹): Page 4, swamp
-- Fugu Custom (ãƒ•ã‚°ã‚«ã‚¹ã‚¿ãƒ ): Page 10, Seagull Park
-- Quititsquid (ãƒ¤ãƒ¡ãƒŠã‚¤ã‚«): Page 10, Seagull Park
-- MekaMarlin (ãƒ¡ã‚«ã‚¸ã‚­): Page 10, Seagull Park
+- Broken Pole (ƒSƒ~‚Â‚è‚®): Page 3, irrigation channel
+- Old Tire (‚­‚¸ƒ^ƒCƒ„): Page 3, irrigiation channel
+- Dullet (ƒYƒ{ƒ‰): Page 3, irrigation channel
+- Unseen Trout (ƒcƒŒƒ“ƒMƒ‡): Page 3, irrigation channel
+- Dumb Snapper (ƒoƒJƒTƒM): Page 3, irrigation channel
+- Nushy (ƒkƒbƒV[): Page 4, swamp
+- Jet Bass (ƒWƒFƒbƒgƒoƒX): Page 4, swamp
+- Fugu Custom (ƒtƒOƒJƒXƒ^ƒ€): Page 10, Seagull Park
+- Quititsquid (ƒ„ƒƒiƒCƒJ): Page 10, Seagull Park
+- MekaMarlin (ƒƒJƒWƒL): Page 10, Seagull Park
 
 Give all of them to the fishing master (use the rightmost verb with him to sell
 all your fish) to fill your golden stamp card and complete the side quest.
@@ -3884,9 +3884,9 @@ What they need is some fish, mushrooms, and some seasoning. If you talk to the
 cloaked figure again, you'll get the details about the food you need to find.
 All of the food items can be found on page 7, in nighttime Vegetable Village.
 
-- Fish: Catch 1 Shy Zander (ã‚¤ãƒ³ãƒ‰ã‚¸ãƒ§ã‚¦).
+- Fish: Catch 1 Shy Zander (ƒCƒ“ƒhƒWƒ‡ƒE).
   Refer to the fishing guide to learn where to catch it.
-- Mushroom: Gather 5 Nightcap mushrooms (ãƒ¨ãƒ«ãƒ€ã‚±), glowing mushrooms that can
+- Mushroom: Gather 5 Nightcap mushrooms (ƒˆƒ‹ƒ_ƒP), glowing mushrooms that can
   only be found during nighttime.
   You can find them to the left and the right of the General Store, at the foot
   of the stairs to the plot rental, in the grass near the fruit shop, next to
@@ -3965,12 +3965,12 @@ Go to page 10's "world thereafter". Talk to Eagle, who is standing in front of
 the passport office. He'll ask you to collect business cards from businesses in
 the port because he's looking for a job. The card you need is the one the big
 burly gardener in Seagull Park will give you if you talk to him. Bring the card
-back to Eagle. Gevi Dekusept (ãƒ‡ã‚¯ã‚·ãƒ), the 7th child of the Face Tree you got
+back to Eagle. Gevi Dekusept (ƒfƒNƒVƒ`), the 7th child of the Face Tree you got
 from the page 4 side quest, to Eagle to present to the gardener.
 Help Eagle pass the following quiz with these right answers:
-Question 1: Squirrel (ãƒªã‚¹)
-Question 2: Pelican (ãƒšãƒªã‚«ãƒ³)
-Question 3: Face Tree (ã˜ã‚“ã‚ã‚“ã˜ã‚…)
+Question 1: Squirrel (ƒŠƒX)
+Question 2: Pelican (ƒyƒŠƒJƒ“)
+Question 3: Face Tree (‚¶‚ñ‚ß‚ñ‚¶‚ã)
 Go back to the passport office.
 
 [G.23] Where the Heart is (Page 10)
@@ -4081,38 +4081,38 @@ save pig's save screen. Talk to him and prepare to answer his questions. If you
 answer wrong more than twice, you lose the game.
 
 Q: The milk you gave to the Big Liar was from which animal?
-A: ã¯ãªã‚„ã (Nose goat)
+A: ‚Í‚È‚â‚¬ (Nose goat)
  
 Q: What's the name of the park located in the port's east side?
-A: ã†ã¿ã­ã“ã“ã†ãˆã‚“ (Seagull park)
+A: ‚¤‚İ‚Ë‚±‚±‚¤‚¦‚ñ (Seagull park)
 
 Q: What's the name of the chicken that lives on the farm you woke up on? 
-A: ã‚³ãƒƒã‚³ (Cucko)
+A: ƒRƒbƒR (Cucko)
  
 Q: What animal is on the cereal box in the junkyard next to Faraway Station?
-A: ã¶ãŸ (pig)
+A: ‚Ô‚½ (pig)
  
 Q: How many pairs of train tracks lead from the mountain tunnel to the port?
 A: 6
  
 Q: What can you give to the animals in front of the House of Fortune Telling to
    make them give you rupees?
-A: ã¯ãªï¼ˆã³ã‚‰ï¼‰(flowers)
+A: ‚Í‚Èi‚Ñ‚çj(flowers)
  
 Q: Of DanJon's Dan and Jon, which one has the Pompadour hair?
-A: ãƒ€ãƒ³ (Dan)
+A: ƒ_ƒ“ (Dan)
  
 Q: What kind of tool is depicted on the sign of the General Store in
    Vegetable Village?
-A: ã¯ã•ã¿ (scissors)
+A: ‚Í‚³‚İ (scissors)
 
 Q: Which direction does the save pig rotate?
-A: ã²ã ã‚Š (left)
+A: ‚Ğ‚¾‚è (left)
  
 Q: What's the name of the Sensei you met in the corn fields?
-A: ãƒ•ãƒ­ãƒ¼ãƒ¬ãƒ³ã‚¹ (Florence)
+A: ƒtƒ[ƒŒƒ“ƒX (Florence)
  
 Final Stage:
  
 Q: The squirrel to my left, the squirrel to my right... Which one's my type?
-A: ã‚Šã‚‡ã†ã»ã† (both)
+A: ‚è‚å‚¤‚Ù‚¤ (both)

@@ -3496,8 +3496,9 @@ Sensei to advance to the Princess. Nimistop's mini-games are getting a little
 harder each time, but don't worry, it's not too difficult.
 If you can beat Nimistop, you'll get to dance with the girl. Depending on how
 many hearts you have filled with her in the course of the game, the quality of
-the dance will vary from the "Heck No Dance" (no hearts at all) over the "So-So Dance" 
-(less than full hearts) to the "Love Love Dance" (full hearts).
+the dance will vary from the "Heck No Dance" (no hearts at all),
+over the "So-So Dance" (less than full hearts) to 
+the "Love Love Dance" (full hearts).
 If you have zero hearts, you'll only get the "No-No Dance", and you can't
 continue with the Dance Party.
 **Note:** The number of hearts you filled up is important for one more aspect
@@ -3543,8 +3544,8 @@ seal on the floor. Tingle's friends discuss what they should do and decide to
 band together once again to save the Princess. One after another, they step
 onto the seal and disappear.
 Now it's Tingle's turn. Move over to the King and give him some of the special
-medicine to remove his poisoning (if you don't do it right now, don't worry: you can do
-it after the upcoming boss fight as well).
+medicine to remove his poisoning (if you don't do it right now, don't worry: 
+you can do it after the upcoming boss fight as well).
 Next, tap the seal on the floor and use the second verb to "jump in". 
 Confirm that you want to do it. 
 At the last second, the Blue Lady tells Tingle to wait! She wants him
@@ -3667,10 +3668,11 @@ You'll be treated to slightly different end credits, depending on which girl
 you chose. Once the credits have ended, you... get a new item? Tingle receives
 the _thing Ladybug Blue is looking for_. Read the section *Secrets* for more
 on that.
-Also, you can now read the "book of the game" from the game's menu screen (meaning it lets
-you read the descriptions that appear before and after each page).
-Finally, the game asks if you want to save your data, which would be pretty reasonable
-at this point.
+Also, you can now read the "book of the game" from the game's 
+menu screen (meaning it lets you read the descriptions that appear before 
+and after each page).
+Finally, the game asks if you want to save your data, which would be pretty 
+reasonable at this point.
 
 # Secrets
 ## The Thing Ladybug Blue is Looking for

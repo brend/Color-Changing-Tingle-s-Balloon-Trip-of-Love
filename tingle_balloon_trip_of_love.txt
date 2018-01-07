@@ -187,7 +187,7 @@ that will make his dull, dreary life so much better (or his money back).
 The book starts him on a magical journey through an unfamiliar world.
 Could she have an interest in his fate?
 
-## Uncle & Auntie
+## Gramma & Grampa
 One day, Tingle wakes up in a strange new place and strange new underwear.
 These two elderly people seem to be his ersatz parents in this wondrous world.
 In the beginning of the game, they help him get his bearings and set him on his
@@ -810,14 +810,14 @@ familiar with the story, so sue me.
 
 ## [F.2] Page 1 Prologue
 Our bachelor finds himself in a room similar from before, but not exactly the
-same. A voice calls out: "Tingle, get up! Uncle needs your help. Bring the
+same. A voice calls out: "Tingle, get up! Grampa needs your help. Bring the
 hammer!" Tap on Tingle - that's his new name, the one you weren't allowed to
 use earlier - and he'll get up and make a pretty disturbed face. Tap the door
-to leave the room. Tingle'll end up in front of the house where Auntie is
+to leave the room. Tingle'll end up in front of the house where  Gramma is
 waiting for him. They have a short talk about his name - the one you entered
 earlier - and how that is a lovely name indeed, and now get to work, Tingle.
 They further talk about a Dance Party that's about to go down, and Tingle is
-keen to go there. Auntie tells Tingle to return to his room and get the hammer.
+keen to go there.  Gramma tells Tingle to return to his room and get the hammer.
 Tap the door to return to Tingle's room in the attic. There, tap the wooden box
 that's on the floor. There's a lot of stuff inside, so let's get grabbing'.
 Tap the _hammer_ and confirm "yes", you want to take it with you. Rejoice at
@@ -841,28 +841,28 @@ that, lots of rupees. So yeah…). I guess the single most defining quality of
 being a Tingle is having an unhealthy obsession with something, be it fairies,
 money, or girls. That, and the green tights and hoodie. Zoom out. If you want,
 have a look at the picture that's on the table. For some reason, the kid (?)
-standing between Uncle and Auntie has been blacked out with marker. Strange...
-OK, so now that we've got the hammer like Auntie asked, let's leave the room
+standing between Grampa and  Gramma has been blacked out with marker. Strange...
+OK, so now that we've got the hammer like  Gramma asked, let's leave the room
 again. And indeed, she is pleased. She gives Tingle something - his green
 Tingle suit. After some failed attempts and a knock on the head he manages to
-put it on. Now we're really Tingling! Auntie talks more about the Dance Party,
+put it on. Now we're really Tingling! Gramma talks more about the Dance Party,
 which is going to take place in the City. Finally, she again tells him to get
-the hammer to Uncle. Our first quest!
+the hammer to Grampa. Our first quest!
 
 ## [F.3] Page 1, Chapter 1: A Strange Old Couple
-The chapter's title probably refers to Uncle and Auntie, since Tingle doesn't
+The chapter's title probably refers to Gramma and Grampa, since Tingle doesn't
 have any recollection of having seen them before. Before you leave, tap the
 bush - you'll get rupees. In this game, you can often tap on things here and
 there, giving you an amusing animation that's not vital to the plot, or a
 little money. Anyway, let's head through the gate to the east. There we see
-some sort of steam-leaking contraption, and next to it, a man from Uncle.
-I mean, the man *is* uncle. Talk to him, and he'll ask you if you brought the
-*thing*. He must be talking about the hammer, right? So show it to him.
+some sort of steam-leaking contraption, and Grampa standing next to it.
+Talk to him, and he'll ask you if you brought the *thing*.
+He must be talking about the hammer, right? So show it to him.
 But somehow, that's not what he wants. He needs the *thing*, the *thing*,
-you know! No, I don't know. Well, Auntie can tell you more details, he says.
-So, back to Auntie. Tap her and choose the second verb from the left,
+you know! No, I don't know. Well, Gramma can tell you more details, he says.
+So, back to Gramma. Tap her and choose the second verb from the left,
 「はなす」("talk"). When the time comes to choose a conversation topic,
-pick the third one. Auntie will hazard the guess that Uncle meant a different
+pick the third one. Gramma will hazard the guess that Uncle meant a different
 tool. Now pick the fourth option to ask about that "different tool".
 She'll tell Tingle to look in the toolbox and gives him the _key_ he needs.
 Go back to Tingle's room. Oops - what was that? A floating pig just appeared
@@ -874,7 +874,7 @@ rotating pink cel-shaded chunk of bacon, confirm "yes", you want to save your
 game, pick a slot, and confirm twice. Presto, your game is saved.
 Now for the toolbox. Use the key on it. It ope…..eeh? It doesn't open.
 Wrong key. That's just the kind of game this is, you know. Back outside, show
-the key to Auntie. She'll think about where the key could be... Let's see,
+the key to Gramma. She'll think about where the key could be... Let's see,
 before she woke Tingle up, she fed Coco the chicken - and there we see
 something glimmering in its nest.
 
@@ -913,10 +913,10 @@ automatically tightens the screw you touched. When Uncle is done explaining,
 say "yes", and play the mini-game. Any screw that comes loose, you tighten.
 Once you have them all, the green light comes on. You do that three times in a
 row, and the machine is finally good to go. Preparations for Tingle's trip to
-the City are complete, and Auntie comes to watch his departure. Talk to her to
+the City are complete, and Gramma comes to watch his departure. Talk to her to
 say goodbye, she'll blow her nose, heartwarming scene. Talk to Uncle one last
 time, say goodbye to him as well. Now! Tap the chair in front of the machine,
-and confirm that you want to go. Auntie gives you 100 rupees of pocket money,
+and confirm that you want to go. Gramma gives you 100 rupees of pocket money,
 there's some fireworks - pop! - and off you gooo! You have completed your first
 "page" of the book that is this game.
 
@@ -1307,7 +1307,7 @@ the Yellow Rail. Everybody walks off to the east; follow them. There seems to
 be some sort of blockage on the rails. The party come to the conclusion they'll
 need a train to be able to continue their journey. So let's look for that next.
 Walk back to where you came from, the front of the station. If you read the
-sign, it tells you that this is "Emerarera City Railroad Station". So that's
+sign, it tells you that this is "Emerald City Railroad Station". So that's
 the name of the City. Follow the blue rails to the back of the station. There
 is a girl in a blue uniform there taking pictures of the station. When the gang
 arrive, Tingle runs into her, making her drop her hat. By the time he's
@@ -2871,7 +2871,7 @@ medal! Lion finds his behavior childish, which leads to a discussion about
 Lion's childhood. Kakashi is interested in knowing what kind of child Lion
 was - well-behaved? strong? Lion tells them he was a rather timid child.
 Suddenly, the train itself speaks up: We are nearing the City! Soon after, the
-Chinliner reaches the Gate of Emerarera City
+Chinliner reaches the Gate of Emerald City
 (エメラレラ　シティ - weird name).
 Luckily, with the passport ready, this time Tingle has no trouble passing, and
 the friends enter the City. From the castle's balcony, a skinny blonde woman

@@ -1445,50 +1445,56 @@ you find a train part and two... sexy bunny squirrel girls?
 Tap the part to start a quiz show.
 
 ### [F.20.1] Zoom-Zoom Junkyard Quiz
-The quizmaster will ask you several questions. Ordinarily you'd have to root
-around the train station to gather the answers; I'll cut this process short and
-just provide you with them. To make things a little harder, the questions are
-in random order, so you'll have to match the Japanese text in the game with the
-questions provided in the following list. Refer to the guide's **text input**
-section to find out how to type in the answers.
+The quizmaster will ask you several questions. If you want to find the answers
+for yourself, you'll have to closely examine the surroundings of this page.
+I'll also list the questions and answers here.
+
+I'll provide the original questions and answers for those who are playing the
+game in Japanese. In addition I put in an English translation of the questions
+and the answers according to the English fan translation.
+
+To make things a little harder, the questions are in random order, so you'll
+have to match the Japanese text in the game with the questions provided in 
+the following list. Refer to the guide's **text input** section if you need
+help with typing the answers.
 Note: a slash ("/") means a line break
-**Copyright information:** I have taken some of the questions and answers from
+
+**Acknowledgements:** I have taken some of the questions and answers from
 this site: http://g-k-h.com/ds/tincle2/page05.php
-So the credit for part of this list is due to them, not my original research.
+The credit for this list goes to them.
 
 - えきちょうの　なまえを　／
 フルネーム　おこたえ　ください。
 Question: Give the full name of the station master.
-Answer: ハーシア・オーライ
+Answer: ハーシア・オーライ (Al Aboard)
 - この　ひきだしの　もっとも　／
 ちかくに　いる　ことりは　なにいろ？
 Question: Which color is the bird closest to this place?
-Answer: あお
+Answer: あお (blue)
 - あおくて　ビカビカする　／
 ふとった　アイツの　なまえは　なに？
 Question: What is the name of the blue, fat train part?
-          (Not quite sure about the meaning of this question)
-Answer: ダイサク
+Answer: ダイサク (Burly)
 - おじさんの　いえに　ある　／
 にんぎょうの　なまえは　なに？
 Question: What is the name of the doll in the man's house?
-Answer: コーンぼうや
-- <TODO: original wording?> 駅の名前「さいはて」
+Answer: コーンぼうや (Corn Boy)
+- この えきの なまえは なにステーション ?
 Question: What is the name of the train station?
-Answer: さいはて
-- <TODO: original wording?>  はたの色「きいろ」
+Answer: さいはて (Faraway station)
+- しゃこの やねに たっている<0>はたの いろは なにいろ ?
 Question: What color is the flag?
-Answer: きいろ
-- <TODO: original wording?> やぐらの高さ「14」
+Answer: きいろ (yellow)
+- さて やぐらの たかさは<0>なんタカーサ でしょう ?
 Question: What's the tower's height?
 Answer: 14
-- <TODO: original wording?> 赤い看板の標語「ノーモアうっかり」
+- しゃこの あかい かんばんの<0>ひょうごは なんでしょう ?
 Question: What is the slogan written on the red sign?
-Answer: ノーモアうっかり
+Answer: ノーモアうっかり (Pay attention!)
 - ピンクいろの　キャラクターとともに　／
 かかれた　キャッチコピーは？
 Question: What is the catchphrase that goes together with the pink character?
-Answer: あさだ！くっとけ！
+Answer: あさだ！くっとけ！ (Let's eat!)
 
 With that taken care of, enter the final round of the zoom-zoom quiz.
 
@@ -1626,7 +1632,7 @@ in the girl notebook. Have a look at the data: one heart (grey), the love meter
 (empty), and a photo of the girl (crying). Continue. When the usual
 inventory/action menu appears, choose the orange button to the right of the
 green verb buttons, 「プッシュ」("push"), to engage in the Love Push.
-<TODO: reference Love Push section here when done>
+See section E.4 Love Push to learn more about that mechanic.
 Once you are successful, the small girl will stop crying. She'll tell her
 mother to come out. Tap her, and Tingle will create a new entry in his girl
 notebook. This will happen for every girl he can push, and it's necessary to
@@ -2520,9 +2526,7 @@ prepare your mind and talk to him when you're ready. Ready? Okay, talk to him.
 He will explain the qualities necessary for survival in the desert. Then he
 will as Tingle if he has understood everything. Answer "yes"; he will then ask
 Tingle to repeat the second quality necessary for survival. Besides Powers of
-Observation, you need Toughness
-(しゅうねん, I forget which option it is.
-Just seek it out or try at random until you get it). <TODO: Which option?>
+Observation, you need Tenacity (しゅうねん, 3rd option).
 Very good, young grasshopper! For Tingle's final preparation, Great goes and
 hides something in the area around the ticket booth. He returns and shows you
 what it is that Tingle must find - it is printed on his undershirt: a stag
@@ -2599,12 +2603,12 @@ stone pillar there with a stone slab on top. One bit of the slab is colored
 red. Tap the pillar and examine it. When Tingle's done examining, there will be
 a new second verb, "rotate". With it, you can rotate the pillar so that the
 colored bit changes position. Take note of the pillar's position, as you will
-need to get back here later (<TODO: Upload annotated desert map>).
+need to get back here later.
 Now, walk a good bit to the north and a little to the east to the pond (you can
 see it on the map, too). Here you can recharge  your water supply for 7 demon
 coins. A little south of the pond is another pillar, this time with a blue bit
 on top. Memorize its location. Walk east, then north to get to a spot
-immediately to the right of the rocky indentation (<TODO: map>). Here is the
+immediately to the right of the rocky indentation. Here is the
 final pillar, this time it's yellow. Memorize its location.
 Now for something completely different. Look at the map - south of where you
 are now, there's a boulder icon. South and a teensy bit east of that boulder is
@@ -3027,8 +3031,7 @@ once, and east once. Here there are three big trees; the right one has a face.
 Tap the tree. It immediately starts talking (darn that chatty flora...) and
 tells Tingle that its six children (fruits) have been abducted by squirrels!
 OK, this is going to require a little more work than the other two ingredients.
-Let's find those pesky squirrels. Have a look at the annotated image of the map
-of the forest to find the locations easily. <TODO: Create and upload map image>
+Let's find those pesky squirrels.
 1. Go to the giant bell that Lion was carrying when you first met him.
 It's just south of the yellow brick road. A squirrel is inside the bell. Shoot
 it with the slingshot to get the fruit it held, Mokushirou.
@@ -3492,8 +3495,8 @@ Sensei to advance to the Princess. Nimistop's mini-games are getting a little
 harder each time, but don't worry, it's not too difficult.
 If you can beat Nimistop, you'll get to dance with the girl. Depending on how
 many hearts you have filled with her in the course of the game, the quality of
-the dance will vary from the "So-So Dance" (1 heart), ...
-<TODO: document existing dances>
+the dance will vary from the "Heck No Dance" (no hearts at all) over the "So-So Dance" 
+(less than full hearts) to the "Love Love Dance" (full hearts).
 If you have zero hearts, you'll only get the "No-No Dance", and you can't
 continue with the Dance Party.
 **Note:** The number of hearts you filled up is important for one more aspect
@@ -3501,9 +3504,7 @@ of the game: the more hearts you have, the more power Tingle will possess when
 it's time for the final boss fight. So while it's entirely possible to complete
 the game with the bare minimum of hearts you get when following this guide up
 until here, it'll be a whole lot easier if you collect some more hearts.
-See the side quests section (once completed)
-<TODO: Reference side quests section once complete> to learn how to get
-additional hearts.
+See the side quests section (section G).
 
 Now that he has successfully danced with four girls, Tingle stands before the
 King and Princess. The Princess introduces Tingle as the guest of honor at this
@@ -3541,9 +3542,11 @@ seal on the floor. Tingle's friends discuss what they should do and decide to
 band together once again to save the Princess. One after another, they step
 onto the seal and disappear.
 Now it's Tingle's turn. Move over to the King and give him some of the special
-medicine to remove his poisoning. <TODO: What happens if not?> Next, tap the
-seal on the floor and use the second verb to "jump in". Confirm that you want
-to do it. At the last second, the Blue Lady tells Tingle to wait! She wants him
+medicine to remove his poisoning (if you don't do it right now, don't worry: you can do
+it after the upcoming boss fight as well).
+Next, tap the seal on the floor and use the second verb to "jump in". 
+Confirm that you want to do it. 
+At the last second, the Blue Lady tells Tingle to wait! She wants him
 to stay a while and listen before beginning the battle. She asks to see
 Tingle's slingshot, and by some... er, fairy magic, she improves its power.
 Now it's time to go. Through the portal, Tingle reaches some weird dimension.
@@ -3663,9 +3666,10 @@ You'll be treated to slightly different end credits, depending on which girl
 you chose. Once the credits have ended, you... get a new item? Tingle receives
 the _thing Ladybug Blue is looking for_. Read the section *Secrets* for more
 on that.
-Also, you can now read the "book of the game" from the game's menu screen
-<TODO: Explain>. Finally, the game asks if you want to save your data, which
-would be pretty reasonable at this point.
+Also, you can now read the "book of the game" from the game's menu screen (meaning it lets
+you read the descriptions that appear before and after each page).
+Finally, the game asks if you want to save your data, which would be pretty reasonable
+at this point.
 
 # Secrets
 ## The Thing Ladybug Blue is Looking for

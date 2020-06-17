@@ -1,6 +1,17 @@
 # Color Changing Tingle's Balloon Trip of Love
 Japanese: Irodzuki Chinkuru No Koi No Balloon Trip
 
+This guide will help you complete the 2009 Vanpool 
+game いろづきチンクルの恋のバルーントリップ and find 100%
+of its secrets.
+
+Jump right into whatever chapter you need, 
+or the FAQ if you have a specific question. If your question isn't already
+in there, send it to waldrumpus@gmail.com.
+
+# Change log:
+2020-06-17: added FAQ
+
 # Table of Contents
 [A] Game and Guide Information and Legal Thingy
 [B] Introduction
@@ -128,6 +139,7 @@ Japanese: Irodzuki Chinkuru No Koi No Balloon Trip
 [G.32] I Swear on the Truth (Page 13)
 [G.33] I Finally Saw It! (Page 12)
 [G.34] The Last Spoiler (Page 13)
+[H] FAQ
 
 # [A] Game and Guide Information and Legal Thingy
 Game copyright: 2009 by Nintendo
@@ -1707,6 +1719,8 @@ on the player you choose. We are out for bait, so choose Kakashi for now.
 The game works as follows: Try to navigate Kakashi to the spots where no plants
 are currently showing, so that he can angle worms from the holes. Collect a
 good handful; maybe do the entire game two or three times to be safe.
+*Note:* If you need more bait later in the game, return to page 7, go to
+Iona's mom and do the farm mini-game again with Kakashi as often as you like.
 When you're done, answer "no" when the lady asks if you'd like to continue.
 Walk over to the seed store (it's the place in the south-east of the map).
 Begin fishing by walking on the planks, choosing the fishing rod from your
@@ -4118,3 +4132,12 @@ Final Stage:
  
 Q: The squirrel to my left, the squirrel to my right... Which one's my type?
 A: りょうほう (both)
+
+[H] Frequently Asked Question (FAQ)
+
+Q: How can I get more worms as bait for fishing?
+A: Use the balloon to return to page 7, Vegetable Village at night time.
+   Talk to Iona's mom and do the farm mini-game with Kakashi to catch worms.
+   If you haven't progressed beyond page 6 and you still have all your party
+   members with you, you can simply do the farm mini-game right on page 6.
+   

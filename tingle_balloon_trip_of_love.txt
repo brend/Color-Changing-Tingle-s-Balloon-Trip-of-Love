@@ -1,9 +1,8 @@
 # Color Changing Tingle's Balloon Trip of Love
 Japanese: Irodzuki Chinkuru No Koi No Balloon Trip
 
-This guide will help you complete the 2009 Vanpool 
-game いろづきチンクルの恋のバルーントリップ and find 100%
-of its secrets.
+This guide will help you complete the 2009 Vanpool game 
+Irodzuki Chinkuru No Koi No Balloon Trip and find 100% of its secrets.
 
 Jump right into whatever chapter you need, 
 or the FAQ if you have a specific question. If your question isn't already
@@ -139,7 +138,6 @@ in there, send it to waldrumpus@gmail.com.
 [G.32] I Swear on the Truth (Page 13)
 [G.33] I Finally Saw It! (Page 12)
 [G.34] The Last Spoiler (Page 13)
-[H] FAQ
 
 # [A] Game and Guide Information and Legal Thingy
 Game copyright: 2009 by Nintendo
@@ -1719,8 +1717,6 @@ on the player you choose. We are out for bait, so choose Kakashi for now.
 The game works as follows: Try to navigate Kakashi to the spots where no plants
 are currently showing, so that he can angle worms from the holes. Collect a
 good handful; maybe do the entire game two or three times to be safe.
-*Note:* If you need more bait later in the game, return to page 7, go to
-Iona's mom and do the farm mini-game again with Kakashi as often as you like.
 When you're done, answer "no" when the lady asks if you'd like to continue.
 Walk over to the seed store (it's the place in the south-east of the map).
 Begin fishing by walking on the planks, choosing the fishing rod from your
